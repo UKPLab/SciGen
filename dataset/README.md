@@ -3,15 +3,15 @@
 SciGen consists of three settings based on the training data size: (1) few-shot, (2) medium, and (3) large.
 
 The test data is the same in all the settings and it consists of expert annotations.
-We split the test set into two ``Computation and Language'' (CL) and ``Other'' domains, in which the ``Other'' domain mainly contains table-description pairs from the ``Machine Learning'' (ML) articles.
+We split the test set into two `Computation and Language` (CL) and `Other` domains, in which the `Other` domain mainly contains table-description pairs from the `Machine Learning` (ML) articles.
 
 
-The data splits in ``few-shot'' only contain table-description pairs from expert annotations. 
-The training and development sets in this setting only contain pairs from the ``CL'' articles.
+The data splits in `few-shot` only contain table-description pairs from expert annotations. 
+The training and development sets in this setting only contain pairs from the `CL` articles.
 
-The training and development sets in the ``medium'' setting contain those in ``few-shot'' plus automatically extracted pairs from additional ``CL'' articles. 
+The training and development sets in the `medium` setting contain those in `few-shot` plus automatically extracted pairs from additional `CL` articles. 
 
-The training and development sets in the ``large'' setting contain those in ``medium'' in addition to automatically extracted pairs from additional ``ML'' articles.    
+The training and development sets in the `large` setting contain those in `medium` in addition to automatically extracted pairs from additional `ML` articles.    
 
 ## Dataset structure
 
