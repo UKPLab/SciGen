@@ -1,0 +1,3 @@
+bleu and rouge - l scores for english - to - german and english - to - french , respectively , are shown in table 2 .	'Hallucinated'
+our character - based model outperforms both baselines and achieves the best results on the development set .	'Incorrect'
+interestingly , the difference between the best results on the development and test sets is not statistically significant .	'Hallucinated'

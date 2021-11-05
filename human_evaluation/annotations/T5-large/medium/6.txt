@@ -1,0 +1,3 @@
+can also be seen that models trained with glove embeddings outperform those trained with tf or idf embeddings , for both types of input ,	'Incorrect'
+with the best overall performance being achieved with the + and - classifiers .	'Hallucinated'
+can see that our method outperforms all the baselines and achieves comparable performance with the state - of - the - art results on both datasets .	'Hallucinated'

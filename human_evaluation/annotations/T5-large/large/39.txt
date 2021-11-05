@@ -1,0 +1,2 @@
+evaluate the quality of the in - vocabulary embeddings by measuring precision and recall at n - gram level .	'Incorrect'
+we report precision @ 1 and recall @ 10 for all pairs in the test set , as well as for all oov word pairs.	'Incorrect'

@@ -1,0 +1,2 @@
+as can be seen , our system outperforms the previous state - of - the - art results on all test sets , except for s13 and s15 , where ims zhong and ng ’ s system obtains the best result .	'Incorrect'
+our system also achieves the best results on s2 , s3 , s07 , and s13 , but lags behind on s15 .	'Incorrect'

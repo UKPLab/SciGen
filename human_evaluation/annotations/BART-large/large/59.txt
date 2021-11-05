@@ -1,0 +1,2 @@
+we observe that bi with a smoothing factor of α = 0 . 1 outperforms uniform ensembles for es2en , en2es , de2en and en2de , but not for en2en .	'Entailed'
+small deviations from the official test scores on submitted runs are due to differences in tokenization differences .	'Hallucinated'

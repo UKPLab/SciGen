@@ -1,0 +1,4 @@
+< extra_id_0 > amr 2017 smatch f is presented in table 1 .	'Hallucinated'
+eds id and ood have significantly higher precision scores compared to other approaches .	'Incorrect'
+eds id and ood have significantly higher precision scores compared to other approaches .	'N/A'
+moreover , eds id and ood have significantly higher precision scores compared to other approaches .	'N/A'

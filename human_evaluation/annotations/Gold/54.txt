@@ -1,0 +1,4 @@
+To better understand how various components in our training procedure and model impact overall performance we conduct several ablation studies
+Results show that using human-annotated answers to generate questions leads to a significant performance boost over using answers from an answer generation module.
+This supports the hypothesis that the answers humans choose to generate questions for provide important linguistic cues for fine-tuning the machine comprehension model.
+To see how copying impacts performance, we explore using the entire paragraph to generate the question vs. only the two sentences before and one sentence after the answer span

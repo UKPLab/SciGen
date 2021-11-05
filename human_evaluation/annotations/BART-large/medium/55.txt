@@ -1,0 +1,8 @@
+we perform two sets of ablation studies on the bidaf model .	'Incorrect'
+in study a , we vary k , the number of mini - batches from squad for every batch in newsqa , and vary the answer type and how much of the paragraph we use for question synthesis .	'Hallucinated'
+2 − sent refers to using two sentences before answer span ,	'Hallucinated'
+while all refers to the entire paragraph .	'Hallucinated'
+we find that using the human - annotated answers rather than the ner system results in a significant boost in both em and f1 .	'Entailed'
+we also find that both using the full paragraph and using the answer span to generate questions ( i . e . , all + aoracle ) outperform using the n - gram aner system .	'Extra'
+finally , we find that the combination of all three components , i . e . using the complete paragraph as the answer , outperforms using the 2 - sentence version of the answer and the 3 - sentences version .	'Extra'
+this shows the importance of taking advantage of all available information from the paragraph to generate the question .	'Extra'

@@ -1,0 +1,4 @@
+char - cnn and syl - cnn outperform syl - sum and syl - concat in en , es , de , cs , ru and ru on the data - s dataset .	'Incorrect'
+the char - cnn model outperforms syl - sum and syl - concat on the data - s dataset .	'Incorrect'
+the char - cnn model also outperforms syl - sum and syl - concat on the data - s dataset .	'N/A'
+we believe this is because syl - sum and syl - concat do not capture long - distance dependencies , while char - cnn and syl - sum capture long - term dependencies .	'Hallucinated'

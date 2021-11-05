@@ -1,0 +1,6 @@
+table 4 shows exact match and span f1 results on the newsqa test set of a bidaf model finetuned with a 2 - stage synnet .	'Hallucinated'
+the results are shown in bold .	'Hallucinated'
+aner and aor refers to using the human - annotated answers to generate questions .	'Extra'
+all refers to the approach described in section 2 . 2 . 2 and refers to how much of the paragraph we use for question synthesis .	'Hallucinated'
+2 − sent and all refer to using two sentences before answer span and the entire paragraph span of the question , respectively , to synthesize the answers .	'Hallucinated'
+while the results show that the aner approach outperforms the aoracle approach , it has the advantage of using more mini - batches , which allows more questions to be synthesized in a single batch.	'Extra'

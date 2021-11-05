@@ -1,0 +1,2 @@
+can be clearly seen that the s - lstm performs the best in terms of both training and test time .	'Entailed'
+it achieves a test accuracy of 82 . 45 % and outperforms the state - of - the - art results of newcitesocher2011semantic , newciteqian2016linguistically , newcitekim2014convolutional , newcitekim2014convolutional , and newciteqian2016linguistically in both the classification and regression tasks .	'Incorrect'

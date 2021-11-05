@@ -1,0 +1,3 @@
+we compare our proposed hn - sa model with the following state - of - the - art models : ( 1 ) cnn kim et al . our proposed model achieves 89 . 47 % and 95 . 92 % accuracy on swbd and swbd2 datasets , respectively , which are the new state of the art results on both datasets .	'Extra'
+note that the previous best accuracy ( cnn + svm ) is reported on the swbd dataset in 2014 .	'Hallucinated'
+we can see that our proposed model outperforms cnn by a large margin , e . g . , it achieves 87 . 76 % and 93 . 87 % accuracy when using bow features and svm classifiers , respectively .	'Extra'

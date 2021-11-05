@@ -1,0 +1,1 @@
+show that when the token decoder deviates from the predicted chunk sequence , it usually results in a translation that is closer to the ground - truth target syntax .	'Incorrect'

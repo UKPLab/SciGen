@@ -1,0 +1,5 @@
+table 2 shows the bleu scores for training nmt models with full word and byte pair encoded vocabularies .	'Hallucinated'
+all models are trained with annealing adam and are averaged over 3 optimizer runs .	'Hallucinated'
+full word models limit vocabulary size to 50k words and byte pair models limit vocabulary size to 16k words .	'Hallucinated'
+bleu scores for training nmt models with full word and byte pair encoded vocabularies are shown in table 2 .	'Hallucinated'
+the best performance is achieved with 32k words .	'Incorrect'

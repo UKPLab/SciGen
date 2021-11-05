@@ -1,0 +1,2 @@
+compare our method against recent neural sentence - level baselines on the conll - 2002 dataset .	'Hallucinated'
+our method improves upon the previous state - of - the - art on all of the datasets tested except for s15 .	'Incorrect'

@@ -1,0 +1,4 @@
+table 1 shows the test set ' s performance on the word embeddings and the unique sents .	'Hallucinated'
+we observe that , compared to the human test set , webnlg has better performance on both the word and the distinctive sents .	'Incorrect'
+the difference is most prevalent in e2e human , which shows that the training set is more interpretable and interpretable with more data .	'Incorrect'
+on the other hand , sents perform better than human on both test sets , indicating that more data is available to analyze and the quality of the training data is better .	'Entailed'

@@ -1,0 +1,4 @@
+< extra_id_0 > 69 . 7 percent .	'N/A'
+mfs outperforms ukb with a margin of 3 . 6 percent .	'Hallucinated'
+mfs achieves a mean overall score of 69 . 8 percent , which is higher than the previous best result .	'Hallucinated'
+mfs outperforms ukb with a margin of 3 . 6 percent .	'Hallucinated'

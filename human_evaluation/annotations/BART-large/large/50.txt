@@ -1,0 +1,3 @@
+s4ss3sss0px2 symmetric test set .	'N/A'
+we evaluate the performance of the classifiers on the supports and refutes cases from the fever dataset and on the generated pairs for the symmetric test set in the setting without ( base ) and with ( r . w ) re - weighting .	'Hallucinated'
+we observe that bert outperforms esim and nsmn on both fever development and the generated pairs , and that the performance on the support and refes cases is similar to that of esim .	'Incorrect'

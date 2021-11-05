@@ -1,0 +1,3 @@
+to further improve the rhn model , we replace the lstm layer in rhn - char - cnn with a simple yet effective character - level character n - gram language model ( rhn - syl - concat ) .	'Entailed'
+we observe that the perplexity decreases from 67 . 6 % to 72 . 0 % when the depth is increased from 8 to 439 , which shows the effectiveness of the proposed method .	'Extra'
+moreover , when we increase the depth to 8 and the dlm size from 650 to 20m , the perplexities further decrease to 69 . 4 % and 70 . 4 % , which shows that the model is able to utilize the character information to improve the language modeling performance .	'Extra'

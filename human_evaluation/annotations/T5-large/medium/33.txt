@@ -1,0 +1,3 @@
+experimented with two variants of rhn : ( i ) rhn - char - cnn , ( ii ) rhn - syl - concat , and ( iii ) rhn - syl - concat .	'Hallucinated'
+both variants have 8 - layer recurrent layers , 650 - dim lstm cells , and 20m parameters .	'Hallucinated'
+the depth is 650 , and the dlm dimension is 439 . the model size is 13m .	'Hallucinated'

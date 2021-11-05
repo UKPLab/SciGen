@@ -1,0 +1,4 @@
+table 2 shows the performance of our approach compared to previous state - of - the - art neural networks on the test set for hard , easy , medium and extra subsets .	'Hallucinated'
+syntaxsqlnet achieves the best performance with an accuracy of 42 . 9 % on the hard subset , while irnet achieves 71 . 3 % accuracy .	'Incorrect'
+next , we compare our approach with ( bert ) and irnet ( bert ) .	'Hallucinated'
+the difference between accuracy on the two baselines is less pronounced on the medium and hard subsets , indicating that the neural network approaches are more suitable for this task .	'Hallucinated'

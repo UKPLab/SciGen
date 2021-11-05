@@ -1,0 +1,4 @@
+we have submitted our best models to the official leaderboard , with scores of 33 . 7 , 33 . 6 , and 35 . 6 for the long - range prediction of the first branch , 2 classes , and mv classifications , respectively .	'Extra'
+for the long - range prediction of the first branch , we have obtained 74 . 7 , 74 . 7 , and 80 . 1 on the test set .	'Extra'
+for the short - range prediction of the second branch , we have obtained 33 . 6 , 36 . 5 , and 28 . 3 on the test set , with scores of 37 . 4 for the first branch , 33 . 6 for the second branch , and 35 . 6 for the long range prediction of the second branch .	'Extra'
+for the long range prediction of the second branch , we have obtained 80 . 1 , 82 . 7 , and 80 . 1 on the test set , respectively .	'Extra'

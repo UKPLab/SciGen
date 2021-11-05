@@ -1,0 +1,3 @@
+can be seen from the results that for all corpora , the health category outperforms the all - biomed category , and the health health category outperforms the all - biomed category .	'Incorrect'
+interestingly , for the health category , the health bio category outperforms the all - biomed category , suggesting that	'Incorrect'
+there may be a mismatch between the domains , with the health category having more training data than the bio category .	'Hallucinated'

@@ -1,0 +1,3 @@
+s - lstm with a dummy node has the same number of hidden units as in the movie review model , but the size of its hidden layers is reduced from 10 , 321k to 4 , 891k to reduce the model size to 8 , 768k .	'Hallucinated'
+the model size is also reduced from 7 , 216k to 6 , 002k to save the computational cost .	'Hallucinated'
+with the smaller hidden size , the model is able to achieve an accuracy of 82 . 64 % with a small number of parameters , which is slightly better than the model with a hidden size of 900 .	'Extra'

@@ -1,0 +1,3 @@
+the accuracies of the baseline and elmo ( over 100 seeds ) on non - neutral sentences are also shown in table 3 , compared to those on neutral ones .	'Incorrect'
+the elmo agent outperforms no - distill , no - project and flipped sentiment agents , confirming the effectiveness of the thresholding scheme .	'Entailed'
+with the exception of flipped sentiment , all the other agents perform similarly to the baseline on neutral sentences .	'Incorrect'

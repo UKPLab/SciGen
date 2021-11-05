@@ -1,0 +1,1 @@
+we see that the s - lstm outperforms all the previous models and achieves the new state - of - the - art result for pos tagging with an accuracy of 97 . 55 % .	'Incorrect'

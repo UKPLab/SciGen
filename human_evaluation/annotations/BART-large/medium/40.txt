@@ -1,0 +1,4 @@
+for tl2rtl ( lτ ) , we use the direct path prediction objective defined by \ newcitelevy - etal - 2018 - indirect : o ( n2 ) = { o ( n1 , n2 ) = 1 , … , n + 1 , n , 1 } for our experiments .	'Hallucinated'
+note that the best performance is achieved using direct path matching with the cosine similarity measure , which is the one used in the original paper .	'Extra'
+we also observe that the addition of the temporal latent variables , lτce and lτh , do not lead to significant improvements in terms of f - score .	'Extra'
+the reason may be that the local latent variables do not contribute to the prediction of the relation between two entities .	'Extra'

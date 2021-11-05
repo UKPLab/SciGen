@@ -1,0 +1,3 @@
+also shows the improvement obtained by jointly training the two decoders .	'Entailed'
+the third column shows that when the token decoder deviates from the predicted chunk sequence , it usually results in a translation that is closer to the ground - truth target syntax , while	'Incorrect'
+the fourth column shows the improvement that is obtained by jointly training the two decoders .	'Hallucinated'

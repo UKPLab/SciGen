@@ -1,0 +1,5 @@
+in the english - german language pair , we use the wmt ’ 17 en - de evaluation campaign sponsored by the conference on spoken language translation and evaluation ( cochrane et al . , 2017 ) to evaluate models for both the news and the news → all - biomed language pairs .	'Extra'
+the bleu scores are given in terms of the number of correctly translated sentences in the test set .	'Extra'
+uniform ensembling results in large improvements for the news - only and news - all biomedicine - based models , and small improvements in the case of the cochrane model .	'Incorrect'
+in the en2en - to - german setting , the uniform ensemble outperforms all other ensembles by a small but consistent margin .	'Incorrect'
+bi ensemble results in further improvements , reaching a maximum of 1 . 8 bleus on the final test set , and a mean of 2 . 2 bleùs .	'Incorrect'

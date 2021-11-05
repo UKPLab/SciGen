@@ -1,0 +1,3 @@
+for the e2e and webnlg datasets , we report the number of unique words , unique sentences , and 1 - 3 - grams , as well as the percentage of new texts .	'Hallucinated'
+we observe that the character - level model outperforms the word - based model by a large margin in terms of both unique words and new texts , with the exception of the sentence “ i don ’ t know ” , which is the only sentence with a unique word in the training data .	'Incorrect'
+we also observe a similar trend for the character model when compared to the word model .	'Incorrect'

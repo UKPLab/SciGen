@@ -1,0 +1,2 @@
+We select the 1st and 2nd best performing models on the development datasets
+We select the majority vote (mv) of 5 models for the final submission

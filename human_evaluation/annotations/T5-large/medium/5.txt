@@ -1,0 +1,4 @@
+can be attributed to two factors .	'Entailed'
+first , the quality of the word embeddings is better than the concept embeddings , which in turn improves the model ’ s performance .	'Extra'
+second , the idf - trained word embeddings perform better than the tf - trained word embeddings for both types of input , with the best performance for tf - trained word embeddings and the best performance for idf - trained word embeddings .	'Extra'
+third , for both types of input , tf - trained word embeddings provide better results than idf - trained word embeddings , with the best recall scores for tf - trained word embeddings and idf - trained word embeddings for both types of input .	'Extra'

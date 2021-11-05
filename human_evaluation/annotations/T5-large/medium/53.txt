@@ -1,0 +1,4 @@
+can be clearly seen that our goal - oriented dialogue model outperforms the vanilla dialogue model in terms of both number of turns and accuracy .	'Extra'
+it is not surprising that the human annotator is more persistent in the fake dialogues it generates , e . g . ,	'Extra'
+80 % of the dialogues in the first dataset are actually achieved by the model , whereas only 13 % are achieved by the model in the second dataset .	'Extra'
+the results also indicate that the state - aware dialogue model is more effective than the vanilla dialogue model in the datasets .	'Extra'

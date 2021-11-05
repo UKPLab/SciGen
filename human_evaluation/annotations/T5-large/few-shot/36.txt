@@ -1,0 +1,6 @@
+esim outperforms transformer on fever title one by a significant margin .	'Incorrect'
+< extra_id_0 > the first half of the development set .	'N/A'
+the percentage of evidence retrieved from first half of development set is shown in table 3 .	'Hallucinated'
+the percentage of evidence retrieved from the second half of development set is shown in table 4 .	'Hallucinated'
+the percentage of evidence retrieved from the first half of development set is shown in table 3 .	'N/A'
+the percentage of evidence retrieved from the second half of development set is higher for single - evidence claims .	'Hallucinated'

@@ -1,0 +1,4 @@
+model sizes , with or without dummy nodes , are marked in bold .	'Hallucinated'
+we can see that with a hidden size of 100 or 200 , the model runs much faster , but the accuracy does not improve further .	'Incorrect'
+with a hidden size of 600 , the model runs much faster but the accuracy does not improve .	'Extra'
+we can see that with a hidden size of 900 , the model runs much faster but the speedup does not increase with the size of the dummy nodes .	'Hallucinated'

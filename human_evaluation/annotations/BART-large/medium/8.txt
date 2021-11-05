@@ -1,0 +1,3 @@
+the results show that the cnn and lstm models outperform the baseline by a large margin in terms of both dict and mrr when using the full cnn and list cnns ,	'Extra'
+but the results are slightly worse when using a list cnn .	'Incorrect'
+we also see that the c - lstm model performs better than the bl + c - cnn model , which is a strong bidirectional language model .	'Entailed'

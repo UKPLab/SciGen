@@ -1,0 +1,3 @@
+melbourne and tilburg smt systems were trained on the original webnlg training set , while upf - forge was trained on a subset of the dev set .	'Hallucinated'
+our best results correspond to the single best model on development set and avg ± sd of ten runs .	'Incorrect'
+our character - based model outperforms the word - based one by 0 . 8 bleu and 0 . 7 rouge - l .	'Incorrect'

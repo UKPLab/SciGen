@@ -1,0 +1,3 @@
+manually rated the generated texts against 10 randomly sampled test instances of a word - based model trained with synthetic training data from two different templates .	'Extra'
+the evaluation is done on the basis of a contingency - based evaluation metric c @ n , which counts the number of correct texts ( with respect to content and language ) among the top n hypotheses .	'Extra'
+the top n hypotheses are judged by three annotators , who are asked to rank the generated texts based on their quality .	'Extra'

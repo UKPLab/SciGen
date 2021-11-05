@@ -1,0 +1,3 @@
+projection accuracy for the isolated example experiment is shown in table 2 .	'Hallucinated'
+our model shows that the new pairs significantly outperform the original pairs in terms of accuracy @ 1 , @ 5 , @ 10 and @ 15 ,	'Hallucinated'
+confirming that the translation quality of our model can be further improved with an increase of the training data quality	'Hallucinated'

@@ -1,0 +1,3 @@
+melbourne is the best performing system on the challenge , followed by tilburg - smt and upf - forge , and character - based systems are best on the development set .	'Extra'
+on the webnlg test set , our best results correspond to the char . ( best on dev . ) and word . ( avg . best on dev . ) , with improvements of 1 . 7 and 0 . 8 bleu and rouge - l respectively over the baseline .	'Extra'
+the difference between the dev . and test sets is small , less than 0 . 1 . despite the small size of the dataset , our results are competitive with the top systems .	'Extra'

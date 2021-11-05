@@ -1,0 +1,5 @@
+For TOP n COS SIM AVG, the tuning data results (Table 2) are somewhat more varied	'N/A'
+There is no single best performing set of embeddings	'N/A'
+Google yields the best F score for the Label setting	'N/A'
+GloVe (though only barely) leads in the Description setting (.912)	'N/A'
+FastText produces the best F score in the Both setting, which is also the best overall tuning data F score for TOP n COS SIM AVG (.954)	'N/A'

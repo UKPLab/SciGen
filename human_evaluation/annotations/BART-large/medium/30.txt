@@ -1,0 +1,3 @@
+for training nmt models we use full word and byte pair encoded vocabularies .	'Hallucinated'
+even with a vocabulary size of 50k , the byte pair model performs better than the full word model .	'Entailed'
+this shows that the byte - pair model is able to learn richer byte - level representations of the source and target languages which are beneficial for the downstream tasks .	'Extra'

@@ -1,0 +1,1 @@
+our proposed method ukb outperforms the previous state - of - the - art methods by a significant margin on all test sets , with an overall f1 score of 70 . 3 % and an average of 68 . 8 % across all the test sets .	'Incorrect'

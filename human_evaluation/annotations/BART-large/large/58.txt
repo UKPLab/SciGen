@@ -1,0 +1,2 @@
+for de2en , the uniform ensemble model outperforms the news → all - biomed submission by a substantial margin of 1 . 8 bleu on the khresmoi test set and 1 . 7 bleus on the en2de test set .	'Incorrect'
+the bi ensemble model performs slightly worse than the uniform model , but still outperforms all submissions by a significant margin of 2 . 0 and 2 . 3 bleu on the de2ens and en2degrees respectively .	'Incorrect'

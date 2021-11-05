@@ -1,0 +1,2 @@
+table 2 shows that esim on the title five dataset significantly outperforms the transformer dataset in terms of support accuracy and claim accuracy .	'Incorrect'
+specifically , esim shows a significant drop in support accuracy for title five and title one datasets .	'Incorrect'

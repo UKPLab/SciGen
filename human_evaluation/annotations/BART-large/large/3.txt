@@ -1,0 +1,3 @@
+we see that the distillation model slightly outperforms the no - project model on the but and negation tasks , and that the elmo model with the project objective performs slightly better than without distillation on the a - but - b sentences .	'Entailed'
+however , the difference is not statistically significant .	'Incorrect'
+we hypothesize that this is due to the fact that the sst2 dataset is constructed in such a way that distillation is less useful for negation .	'Incorrect'

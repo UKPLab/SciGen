@@ -1,0 +1,3 @@
+< extra_id_0 > our approach achieves the best performance with respect to exact matching .	'Entailed'
+irnet outperforms all other approaches with a margin .	'Entailed'
+we observe that irnet achieves the best performance with respect to copy - pasting.	'Extra'

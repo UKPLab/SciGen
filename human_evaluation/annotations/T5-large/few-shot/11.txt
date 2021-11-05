@@ -1,0 +1,4 @@
+< extra_id_0 > and s - lstm . the results are shown in table 4 .	'Hallucinated'
+the model outperforms all the other models with a margin .	'Incorrect'
+however , the model with the best performance is the single stacked bilstm model with a margin .	'Incorrect'
+the model with the best performance is the single stacked bilstm with a score of 83 . 6 % .	'Incorrect'

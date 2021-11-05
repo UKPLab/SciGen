@@ -1,0 +1,4 @@
+our sentence encodings are obtained using bidirectional lstms with a sentence embedding dimension of 3200 and the maximum length of each sentence is 200 .	'Extra'
+we achieve the best results for the sentence encoder type rnn and the decoder type cnn with a dimension of 600 - 1200 - 300 and a decoding time of 20 hours.	'Incorrect'
+we also compare the performance of different combinations of rnn , cnn and lstm with different encoders and decoders .	'Extra'
+we find that a 2x300 convolutional rnn encoder with 20 hours of training time outperforms the rnn with 2 × 300 and 3 × 300 cnn encoder and decoder layers .	'Incorrect'

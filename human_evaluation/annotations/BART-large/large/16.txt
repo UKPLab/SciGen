@@ -1,0 +1,5 @@
+for the e2e dataset , we use the standard train / dev split provided by the task organizer .	'Hallucinated'
+the baseline is a pointer - generator sequence - to - sequence model trained on the training set of the conll - 2012 challenge .	'Extra'
+the character - based model outperforms the word - based system by 0 . 8 bleu and 0 . 5 rouge - l points on the challenge set .	'Incorrect'
+the best results on the dev set are achieved by the character model , which is also better than the baseline , but not as good as the best model on the original dev set .	'Incorrect'
+on the other hand , the char - based approach outperforms both the word and character models on our own test set .	'Incorrect'

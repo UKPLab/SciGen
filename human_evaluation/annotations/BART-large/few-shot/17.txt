@@ -1,0 +1,5 @@
+table 3 shows the best performance on the development set of webnlg for rouge - l , upf - forge and tilburg - smt .	'Hallucinated'
+the best results on the dev set are obtained by our approach , which verifies the effectiveness of our model design .	'Incorrect'
+the difference in performance between baseline and dev set is minimal , however we see significant difference in bleu score due to large variation in training set size and quality .	'Incorrect'
+our approach outperforms all the stateof - the - art systems that do not use webnlg embeddings .	'Incorrect'
+its average ± sd score of 10 . 3 ± 2 . 8 points over the baseline is better than all the other approaches except upf ' s 37 . 4 ± 0 . 9 .	'Hallucinated'

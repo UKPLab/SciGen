@@ -1,0 +1,4 @@
+can be seen that on all datasets , our proposed model outperforms the previous state - of - the - art in terms of f - score .	'Extra'
+on dm and pas datasets , our proposed model outperforms the previous state - of - the - art in terms of f - score .	'Extra'
+on amr datasets , our proposed model outperforms the previous state - of - the - art in terms of f - score .	'Incorrect'
+on eds datasets , our proposed model outperforms the previous state - of - the - art in terms of f - score and smatch f - score .	'Extra'

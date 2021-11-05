@@ -1,0 +1,4 @@
+in this section , we analyze the effect of not concatenating the evidence with the fever claim or not .	'Hallucinated'
+in the oracle setting , we concatenate the claim and the supporting evidence to obtain the final fever claims .	'Hallucinated'
+we can see that there is no significant difference between the two setups .	'Hallucinated'
+this shows that fever does not need to be concatenated with the claim .	'Hallucinated'

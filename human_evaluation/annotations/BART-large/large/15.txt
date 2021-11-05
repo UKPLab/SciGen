@@ -1,0 +1,3 @@
+our best model , s - lstm , obtains a new state - of - the - art f1 score of 91 . 57 on the conll - 2005 test set , outperforming the previous state of the art by more than 2 f1 points .	'Incorrect'
+our model also outperforms the model of \ newcitelample2016neural , which achieves 90 . 94 f1 on the same dataset .	'Hallucinated'
+on the other hand , our model does not outperform \ newciteyang2017transfer , which uses a much larger model .	'Hallucinated'

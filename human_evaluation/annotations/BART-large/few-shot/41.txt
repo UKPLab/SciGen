@@ -1,0 +1,3 @@
+the results for all onion and all onion half - and - half datasets are shown in table 4 .	'Hallucinated'
+all onion all and all onion half - of - the - speech embeddings perform comparably to each other except for the case of ebay where all onion is better than all onion but slightly worse than legal onion .	'Entailed'
+legal onion is comparable to both illegal onion and legal onion in terms of performance on both datasets with two exceptions ( ' illegal onion ' performs slightly better than ' legal onion ' on both ebay and ' all onion ' in the comparison dataset .	'Incorrect'

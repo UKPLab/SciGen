@@ -1,0 +1,1 @@
+using the same bigrams as in the previous experiment , we observe that glslmi performs better than glslmi + glove for most of the bigrams except for “ winner ” which improves performance .	'Extra'

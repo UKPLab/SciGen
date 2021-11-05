@@ -1,0 +1,3 @@
+the contextual match model achieves a token overlapping score of 60 . 90 and a compression rate of 0 . 38 compared to filippova et al .	'Incorrect'
+the contextual oracle model achieves the best f1 score of 82 . 1 and the compression rate is 0 . 39 compared to the supervised results .	'Extra'
+the performance of the unsupervised baseline is 52 . 3 % in f1 and 60 . 9 % in cr , which is much lower than the supervised f & a baseline.	'Extra'

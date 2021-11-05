@@ -1,0 +1,3 @@
+table 3 compares the f1 scores of the predicted and actual parse ( from the parse decoder ) and the gold parsing ( from an external parser in the target language ) , and the chunk sequences obtained after parsing the translation produced by the token decoder .	'Incorrect'
+predicted parse prediction has an f1 improvement of 7 . 23 % over gold parsing , which	'Incorrect'
+shows that jointly training the two decoders improves the prediction performance by more than 2 . 10 % overall .	'Hallucinated'

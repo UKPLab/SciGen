@@ -1,0 +1,4 @@
+Correlation between Attribution word importance with POS tags, Fertility, and Syntactic Depth.
+Fertility can be categorized into 4 types: one-to-many (\"≥ 2\"), one-to-one (\"1\"), many-to-one (\"(0, 1)\"), and null-aligned (\”0\")
+Syntactic depth shows the depth of a word in the dependency tree.
+A lower tree depth indicates closer to the root node in the dependency tree, which might indicate a more important word

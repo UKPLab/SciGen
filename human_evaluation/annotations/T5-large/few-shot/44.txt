@@ -1,0 +1,3 @@
+< extra_id_0 > 69 . 7 % on average compared to yuan et al . ( 2016a , b , c ) and ng et al . ( 2010a , c ) in table 2 .	'Hallucinated'
+our model outperforms the previous state - of - the - art on all metrics with a margin .	'Incorrect'
+however , it does not achieve the same level of performance as previous works.	'Incorrect'

@@ -1,0 +1,5 @@
+as we can see , all the sql - based approaches can achieve better performance than the vanilla seq2seq model by a large margin ( 1 . 9 % and 4 . 1 % improvement on sql and semql , respectively ) ,	'Incorrect'
+while the syntactic approaches achieve a much smaller gap ( 10 . 8 % on sql vs . 25 . 0 % on semql ) .	'Incorrect'
+the main reason is that sqlnet and syntaxsqlnet are pre - trained on sql dataset , while bert is trained on the semql dataset .	'Incorrect'
+as a result , bert has a better performance on sql compared with sqlnet .	'Hallucinated'
+however , the improvements of syntactic and bert based approaches are not as large as that of bert , which may be caused by bert ’ s ability to overfit to the training set .	'Hallucinated'

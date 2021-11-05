@@ -1,0 +1,4 @@
+SynST achieves speedups of ∼ 4 − 5× that of the vanilla Transformer.
+This is larger than nearly all of the SAT configurations.
+Quality-wise, SynST again significantly outperforms the SAT configurations at comparable speedups on all datasets.
+On WMT En-De, SynST improves by 1 BLEU over LT (20.74 vs LT's 19.8 without reranking).

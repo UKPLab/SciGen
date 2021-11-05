@@ -1,0 +1,3 @@
+< extra_id_0 > bl + c - lstm ( chunting : 15 ) achieves 22 . 0 c on average compared to bl + c - lstm ( chunting : 15 ) .	'Extra'
+bl + c - lstm also achieves 22 . 0 c on average compared to bl + c - lstm ( chunting : 15 ) .	'N/A'
+bl + c - lstm also achieves 22 . 0 c on average compared to bl + c - lstm ( chunting : 15 ) .	'N/A'

@@ -1,0 +1,7 @@
+< extra_id_0 > and the official evaluation results of the submitted runs on the test set.	'N/A'
+the official evaluation results of the submitted runs on the test set are shown in table 3 .	'Hallucinated'
+the evaluation results of the submitted runs on the test set are summarized in table 3 .	'Hallucinated'
+the evaluation results of the submitted runs on the test set are summarized in table 3 .	'N/A'
+the evaluation results of the submitted runs on the test set are summarized in table 3 .	'N/A'
+the evaluation results of the submitted runs are summarized in table 3 .	'N/A'
+the results of the submitted runs on the test set are summarized in table 3 . the	'N/A'

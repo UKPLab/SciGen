@@ -1,0 +1,4 @@
+compares to the state - of - the - art on the e2e task according to bleu papineni et al .	'Hallucinated'
+the two neural models outperform the baseline system by a large margin in both metrics .	'Incorrect'
+the difference in bleu between the character - based model and the word - based model is smaller in the e2e test set , but	'Incorrect'
+the character - based model outperforms the word - based model in the rouge - l metric . ,	'Entailed'

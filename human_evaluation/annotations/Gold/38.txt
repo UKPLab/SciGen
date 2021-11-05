@@ -1,0 +1,18 @@
+For the proposed incr. dynamic approach, the performance of the previous projections is comparable to that of the up-to-now projections on the accuracies @5 and @10
+The performance of the previous projections is even higher on the accuracy @1 (statistically significant with t-test, p < 0.01)
+Thus, the single-year projections are somewhat more 'focused', while taking much less time to learn, because of less training pairs
+The fact that our models were incrementally updated, not trained from scratch, is crucial
+The results of the separate baseline look more like random jitter
+The cumulative baseline results are slightly better, probably simply because they are trained on more data. 
+However, they still perform much worse than the models trained using incremental updates.
+This is because the former models are not connected to each other, and thus are initialized with a different layout of words in the vector space. 
+This gives rise to formally different directions of semantic relations in each yearly model (the relations themselves are still there, but they are rotated and scaled differently).
+The results for the incr. static baseline, when tested only on the words present in the test model vocabulary (the left part of the table), seem better than those of the proposed incr. dynamic approach
+This stems from the fact that incremental updating with static vocabulary means that we never add new words to the models
+They contain only the vocabulary learned from the 1994 texts
+The result is that at test time we skip many more pairs than with the other approaches (about 62% in average).
+Subsequently, the projections are tested only on a minor part of the test sets. 
+Skipping large parts of the data would be a major drawback for any realistic application, so the incr. static baseline is not really plausible
+For comparison, the right part of Table 3 provides the accuracies for the setup in which all the pairs are evaluated (for pairs with OOV words the accuracy is always 0).
+Other tested approaches are not much affected by this change, but for incr. static the performance drops drastically.
+As a result, for the all pairs scenario, incremental updating with vocabulary expansion outperforms all the baselines (the differences are statistically significant with t-test, p < 0.01).

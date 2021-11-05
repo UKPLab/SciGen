@@ -1,0 +1,5 @@
+as can be seen from the table , the results show that the best results are obtained using only in - vocabulary pairs ( i . e . , previous or current up - to - now ) and using all pairs ,	'Entailed'
+whereas the results obtained using separate embeddings ( separate ) do not achieve good results .	'Entailed'
+separate performs worse than any of the other two approaches ,	'Entailed'
+which indicates that it is harder to learn a good embedding space for oovs .	'Extra'
+however , the result obtained using bilingual embedding is better than using the multilingual embedding .	'Hallucinated'

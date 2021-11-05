@@ -1,0 +1,5 @@
+for a fair comparison , we use the same number of stacked cnn layers and number of transformer layers for all our experiments .	'Hallucinated'
+we can see that the time complexity of stacked bilstm is similar to that of lstm and cnn , while the number of parameters of all transformer models is about 1 / 8 of that of them .	'Incorrect'
+for the stacked cnn models , the accuracy is slightly higher than that of the stacked lstms , but the time to do so is much smaller . for instance ,	'Incorrect'
+for a stacked cnn model with n = 6 , the time taken to do the prediction is only 1 / 4 of that required by the standard transformer model with 8 layers .	'Hallucinated'
+the accuracy achieved by our model is also 1 / 3 of the time cost of the standard transformer model with 6 layers , which makes our model approximately 3 times faster .	'Incorrect'

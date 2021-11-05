@@ -1,0 +1,3 @@
+the results are shown in table 1 .	'Hallucinated'
+we present the performance of our final model on the training and test set of bilstm .	'Hallucinated'
+our model outperforms all the previous state - of - the - art models on both datasets with two tasks	'Hallucinated'

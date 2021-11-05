@@ -1,0 +1,5 @@
+the results are shown in table 1 .	'Hallucinated'
+all decoders perform similarly to the pre - trained models except for sick - e . in all but one case , the difference is less pronounced with respect to msrp ( acc / f1 ) and trec .	'Incorrect'
+rnn significantly outperforms cnn in terms of sentence representation .	'Incorrect'
+its average number of tokens per sentence is 11 . 6 , which	'Incorrect'
+means that more than half of the sentences in question are actually encoded in the wrong context .	'Hallucinated'

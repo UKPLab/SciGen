@@ -1,0 +1,4 @@
+all models have ≈ 5 millions of parameters .	'Incorrect'
+char - cnn performs better than lstm - word on test set perplexity , but is outperformed by syl - lstm and syl - avg by a large margin .	'Incorrect'
+we hypothesize that this is due to the fact that character - level cnns are better at capturing long term dependencies than word level cnns .	'Hallucinated'
+syl - concat outperforms all other models by a wide margin .	'Incorrect'

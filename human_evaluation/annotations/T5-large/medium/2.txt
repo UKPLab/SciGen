@@ -1,0 +1,1 @@
+can be seen that biobert outperforms bert on both mednli and snli , and that the improvement is statistically significant ( t - test , p - value 0 . 01 ) .	'Entailed'

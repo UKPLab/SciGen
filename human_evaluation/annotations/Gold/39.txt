@@ -1,0 +1,7 @@
+A trend that can be observed is that overall performance on TD‡ is higher than that of TE3‡
+If we compare loss functions Lτ , Lτ ce, and Lτh, and combination L∗, it can be noticed that, although all loss functions seem to give fairly similar performance, Lτ gives the most robust results (never lowest), especially noticeable for the smaller dataset TD‡
+The combination of losses L∗ shows mixed results, and has lower performance for S-TLM and C-TLM, but better performance for TL2RTL.
+We can clearly see that on TE3‡, CTLM performs better than the indirect models, across all loss functions.
+On TD‡, the indirect models seem to perform slightly better
+The difference between C-TLM and S-TLM is small on the smaller TD‡
+On TE3‡, the larger dataset, C-TLM clearly outperforms S-TLM across all loss functions.

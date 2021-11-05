@@ -1,0 +1,4 @@
+in terms of the number of unique sentences , e2e exhibits a higher percentage of sentences with unique sentences than webnlg .	'Extra'
+in addition , the percentage of completely new texts is much higher than in the case of human authored texts ( 99 . 7 % vs . 16 . 7 % ) .	'Incorrect'
+the character embeddings exhibit a slightly lower percentage of new texts than the human text .	'Incorrect'
+this is likely a result of the fact that the character embedding is better able to better represent the structure of sentences in the human language than the other embedding methods .	'Hallucinated'

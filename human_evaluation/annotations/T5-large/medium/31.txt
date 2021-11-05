@@ -1,0 +1,6 @@
+first compare our pre - selection results against existing models : lstm - word , char - cnn , syl - cnn , syl - avg , and syl - concat .	'Extra'
+we can see that all syl - cnn models outperform the lstm - word model and the char - cnn model , and	'Incorrect'
+all syl - cnn models outperform the char - cnn model .	'Entailed'
+the best results are obtained by the syl - concat model , which outperforms all other models .	'Incorrect'
+the best results are obtained by the syl - concat model , which outperforms the other models by a large margin .	'N/A'
+the best results are obtained by the syl - sum model , which outperforms all other models .	'Incorrect'

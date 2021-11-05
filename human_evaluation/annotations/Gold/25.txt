@@ -1,0 +1,4 @@
+We look at the fluency model and compare the cluster smoothing (CS) approach with softmax temperature (TEMPx with x being the temperature) commonly used for generation in LM-integrated models (Chorowski and Jaitly, 2016) as well as no adjustment (NA)
+We vary the 3-layer representation out of ELMo forward language model to do contextual matching (bot/mid/top: bottom/middle/top layer only, avg: average of 3 layers, cat: concatenation of all layers).
+Results show the effectiveness of our cluster smoothing method for the vocabulary adaptive language model pfm, although temperature smoothing is an option for abstractive datasets. 
+When using word embeddings (bottom layer only from ELMo language model) in our contextual matching model pcm, the summarization performance drops significantly to below simple baselines as demonstrated by score decrease.

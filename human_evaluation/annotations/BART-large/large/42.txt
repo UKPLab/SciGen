@@ -1,0 +1,3 @@
+the average percentage of wikifiable named entities in a website is 38 . 6 % for ebay , 32 . 5 % for illegal onion , and 50 . 8 % for the legal onion .	'Extra'
+we observe that the number of entities that are wikifiable is higher for the illegal onion than for the legal onion ,	'Incorrect'
+likely due to the fact that the site ’ s authors claim that many of the “ illegal ” accounts are not real accounts , but are fake accounts .	'Hallucinated'

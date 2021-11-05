@@ -1,0 +1,4 @@
+for nouns , verbs , adverbs , adjectives , and conjunctions , the fraction of infrequent pos tags that do not have a fixed pos tag is 21 . 0 % , 1 . 9 % , and 0 . 4 % , respectively , in zh ⇒ en , en ⇇ fr , and ja , respectively .	'Extra'
+regarding other pos tags , a significant share ( 26 . 7 % ) of the sentences contains one of the following types : prepending , denotation , disambiguation , conjunct , quotation marks , and prepositions .	'Extra'
+in terms of fertility , we can see that a significant fraction ( 50 . 2 % ) of sentences containing a fertility term is also used as a pos tag , and the percentage of others is also present ( 4 . 7 % ) .	'Extra'
+we can also see that the proportion of others is also higher than the other types ( 21 . 7 % ) , and this is likely due to the fact that fertility terms are usually used in conjunction with other terms ( e . g . , “ in a relationship ” , “ wanting to get married ” ) .	'Extra'

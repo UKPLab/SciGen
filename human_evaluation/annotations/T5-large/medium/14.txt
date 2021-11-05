@@ -1,0 +1,1 @@
+can be seen that all our models are able to outperform the baseline bilstm model of newcitemanning2011part , despite that they use a much larger amount of training data ( 254 vs . 254 ) to achieve the same accuracy .	'Incorrect'

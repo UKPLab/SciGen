@@ -1,0 +1,3 @@
+the slstm and bilstm models outperform the other models in most of the cases ,	'Incorrect'
+except for the health and kitchen datasets , where the 2 - layer lstm model is slightly better than the single layer model . (C-G) /	'Incorrect'
+however , the time complexity of the 2 layer model is significantly lower than that of the single layered model in all the cases .	'Entailed'

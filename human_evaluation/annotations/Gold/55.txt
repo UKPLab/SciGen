@@ -1,0 +1,2 @@
+Table 2 gives single model validation scores for es2en and en2es models with standard and iterative transfer learning
+We find that the all-biomed domain gains 1-2 BLEU points from transfer learning

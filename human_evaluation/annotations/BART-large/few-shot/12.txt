@@ -1,0 +1,4 @@
+results on the movie review dataset are shown in table 4 .	'Hallucinated'
+our model outperforms all the previous approaches by a noticeable margin .	'Incorrect'
+bilstm achieves the best performance with 82 % on average compared to the previous state - of - the - art models .	'Incorrect'
+it closely matches the performance of the best previous models , with the exception of socher ( 2012 ) .	'Hallucinated'

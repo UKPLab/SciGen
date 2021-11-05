@@ -1,0 +1,4 @@
+variational rhn .	'N/A'
+in this experiment , we replace the character cnn with a recurrent neural network ( rhn ) and compare its performance with different variants .	'Extra'
+we use the same hyper - parameters as described in the previous experiments , i . e . , the depth and the depth of the lstm layers , the number of hidden units in the first and second convolutional layers , and the size of the fully connected layers .	'Extra'
+we can see that rhn - syl - concat achieves slightly better performance than the original rhn with the same depth and dlm , but the model size is reduced to 13m instead of 20m .	'Extra'

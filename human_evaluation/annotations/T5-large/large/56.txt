@@ -1,0 +1,4 @@
+es2en and en2es performance on khresmoi is compared with the baseline khresmoi model .	'Hallucinated'
+es2en health bio performs the best among all transfer learning schedules .	'Incorrect'
+es2en health bio performs the best among all transfer learning schedules .	'N/A'
+en2es health bio performs the best among all transfer learning schedules .	'N/A'

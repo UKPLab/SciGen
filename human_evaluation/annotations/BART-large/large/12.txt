@@ -1,0 +1,3 @@
+our proposed s - lstm model achieves the best test set accuracy of 82 . 45 % ,	'Incorrect'
+outperforming the previous state - of - the - art by a significant margin of 1 . 53 %.	'Incorrect'
+the transformer ( n = 8 ) model also performs well on this dataset , but is outperformed by our proposed model .	'Incorrect'

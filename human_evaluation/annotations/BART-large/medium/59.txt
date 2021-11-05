@@ -1,0 +1,6 @@
+uniform ensembles were used for submission based on results on available development data.	'Extra'
+bi was applied on the wmt19 test data to fine - tune models for a range of α from 0 . 1 to 0 . 5 .	'Entailed'
+we observe that bi leads to small but consistent improvements across all language pairs .	'Incorrect'
+small deviations from the official test scores on en2en and en2es are due to tokenization differences .	'Hallucinated'
+when scaled to α = 0 . 5 , bi produces models with a uniform uniform ensembling and a small number of distinct models per language pair .	'Entailed'
+however , as α increases , bi tends to produce models with more distinct models across languages . this suggests that adaptive smoothing has a positive impact on both uniform and distributed models .	'Extra'

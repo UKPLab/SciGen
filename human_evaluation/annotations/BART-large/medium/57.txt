@@ -1,0 +1,7 @@
+uniform ensembling . health → all - biomed → health , health → bio , and bio → bio .	'Hallucinated'
+we see that in general , training a single model to perform well on both health and bio tasks is difficult .	'Extra'
+uniform ensemble outperforms all other models in all cases .	'Incorrect'
+in particular , in health , uniform ensemble yields a bleu score of 52 . 2 on es2en and 43 . 0 on bio , which outperforms the best single model by a large margin .	'Incorrect'
+in contrast , in the health case uniform ensemble performs worse than training one single model on the bio task .	'Incorrect'
+we hypothesize that the health model is overfitted on the in - domain data while the bio model is pretrained on all the biomedical data in the other direction .	'Hallucinated'
+uniform ensemble also performs better than training single models across all domains .	'Incorrect'

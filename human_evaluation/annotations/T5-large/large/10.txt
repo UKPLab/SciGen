@@ -1,0 +1,2 @@
+adding two dummy nodes to the network improves the accuracy only marginally .	'Incorrect'
+however , increasing the hidden size further increases the training time and leads to a significant increase in the number of parameters .	'Incorrect'

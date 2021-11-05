@@ -1,0 +1,8 @@
+the task was done using fleiss ’ kappa to measure inter - annotator agreement with the labels assigned by the evaluators .	'Hallucinated'
+the cohen ’ s kappa is used to measure the degree of agreement between the two annotators , which is normalized using pearson ’ s r .	'Hallucinated'
+we used a threshold of 0 . 5 to reject sentences which get tagged as neutral and those which got tagged as non - neutral .	'Extra'
+the thresholds range from 0 . 50 to 0 . 75 .	'Hallucinated'
+when the thresholds are above a threshold ( 0 . 5 ) , a sentence is considered to be labeled as neutral if its label is the majority label in the sst2 dataset .	'Extra'
+when thresholds are below these thresholds , a random sample of 1 , 000 sentences is used as the final label .	'Extra'
+for the no - project and no - distill settings , the elmo classifier performs better than the baseline on the neutral sentences , but worse on the flipped - noun ones .	'Incorrect'
+this shows that the task is difficult , and that elmo is better at classifying neutral sentences when presented with examples of the same label as the majority class .	'Incorrect'

@@ -1,0 +1,13 @@
+Decoding the next sentence performed similarly to decoding the subsequent contiguous words.
+Decoding the subsequent 30 words, which was adopted from the skip-thought training code, gave reasonably good performance.
+More words for decoding didn't give us a significant performance gain, and took longer to train.
+Adding more layers into the decoder and enlarging the dimension of the convolutional layers indeed sightly improved the performance on the three downstream tasks, but as training efficiency is one of our main concerns, it wasn't worth sacrificing training efficiency for the minor performance gain.
+Increasing the dimensionality of the RNN encoder improved the model performance, and the additional training time required was less than needed for increasing the complexity in the CNN decoder.
+As the transferability of the models trained in both cases perform similarly on the evaluation tasks, we focus on the simpler predictall-words CNN decoder that learns to reconstruct the next window of contiguous words.
+Decoding short target sequences results in a slightly lower Pearson score on SICK
+Decoding longer target sequences lead to a longer training time.
+We tweaked the CNN encoder, including different kernel size and activation function
+The future predictor in (Gan et al., 2017) also applies a CNN as the encoder, but the decoder is still an RNN
+Compared to our designed CNN-CNN model, their CNN-LSTM model contains more parameters than our model does, but they have similar performance on the evaluation tasks, which is also worse than our RNN-CNN model.
+Increasing the dimensionality of the RNN encoder leads to better transferability of the model
+Compared with the model with larger-size CNN decoder, apparently, we can see that larger encoder size helps more than larger decoder size does

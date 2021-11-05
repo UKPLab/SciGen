@@ -1,0 +1,2 @@
+we observe that the best performance is obtained when all features are used , i . e . , cs + cat , temp5 + cat , na + cat .	'Incorrect'
+we also observe that temp10 performs better when all features are used , i . e . , temp5 + cat + bot , na + cat .	'Incorrect'

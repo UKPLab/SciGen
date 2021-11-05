@@ -1,0 +1,2 @@
+can be seen that with an auto - regressive rnn as decoder , using teacher forcing achieves the best performance on most of the tasks except sts14 .	'Incorrect'
+however , it performs worse on some tasks , e . g . , sst and trec .	'Incorrect'

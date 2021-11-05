@@ -1,0 +1,3 @@
+use ne + film retrieval for fever evaluation .	'Extra'
+the development and test sets use the same ne + film retrieval pipeline , and the fever score is averaged across the three retrieval pipelines .	'Extra'
+the system with the best development fever score is the one with the best test fever score .	'Extra'

@@ -1,0 +1,3 @@
+Sub-word systems outperform full-word systems across the board, despite having fewer total parameters.
+Systems built on larger data generally benefit from larger vocabularies
+Smaller systems perform better with smaller vocabularies.

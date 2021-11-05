@@ -1,0 +1,5 @@
+in order to evaluate the impact of contextual representation in the matching model , we conduct ablation experiments on the cs and extractive models .	'Hallucinated'
+we can see that adding the cs features significantly improves the performance of the model . (C-G) /	'Incorrect'
+the extractive model benefits from having access to the context of the entire document as it is much more difficult to extractive than the abstractive model .	'Extra'
+in addition , the best performance is achieved by using the top - level representation ( cf . cs + top ) , mid - level ( cs + avg ) , and bottom - level representations ( caption + bot ) as the matching agents .	'Extra'
+the experimental results show that the representation of the context plays an important role in the model ’ s performance .	'Extra'

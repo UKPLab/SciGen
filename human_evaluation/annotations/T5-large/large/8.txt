@@ -1,0 +1,3 @@
+using glove embeddings on top of cnn and lstm ( full and k ) leads to an increase in mrr over the baseline .	'Extra'
+adding additional word embeddings ( glove + c - lstm ) does not improve the mrr over the bl + glove model .	'Extra'
+however , adding word vectors ( glove + c - lstm ) improves the mrr over the bl + glove model , suggesting that word vectors are useful for sentence representations .	'Extra'

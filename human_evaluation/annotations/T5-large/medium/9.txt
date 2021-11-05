@@ -1,0 +1,4 @@
+can see that the sat model always outperforms the baseline models regardless of the size of the back projection layer ( k = 2 ) or the back - translation layer ( k = 4 ) .	'Incorrect'
+in particular , on wmt and iwslt datasets , the bleu score of sat is always higher than that of the baseline model .	'Incorrect'
+similarly , on the iwslt dataset , the bleu score of sat is always higher than that of the baseline model .	'Incorrect'
+this indicates that the back - translation layer ( k = 4 ) is more effective than the single back - translation layer ( b = 2 ) for sat .	'Hallucinated'

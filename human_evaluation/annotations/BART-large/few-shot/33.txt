@@ -1,0 +1,3 @@
+variational rhn outperforms the original lstm embeddings in terms of dlm and ppl , as shown in table 5	'Incorrect'
+the similarity between the original and the variationated rhn is less pronounced for the latter .	'Incorrect'
+however , the difference between ppl and dlm drops significantly for the original rhn .	'Incorrect'

@@ -1,0 +1,4 @@
+s - lstm with different sizes of hidden nodes .	'Hallucinated'
+we can see that with the increase of dummy nodes , the time and accuracy of the model increases , but the number of parameters also increases .	'Incorrect'
+the model with a hidden size of 200 has the best performance , which is slightly better than the model without dummy nodes .	'Incorrect'
+however , the model with the smallest hidden size 900 has the worst performance . the reason is that the model is too large to fit on the gpu card .	'Hallucinated'

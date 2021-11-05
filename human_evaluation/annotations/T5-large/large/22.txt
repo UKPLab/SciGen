@@ -1,0 +1,2 @@
+we manually evaluated the generated texts for 10 random test instances of a word - based model trained with the training data from two templates .	'Extra'
+the reranker improves the top n hypotheses by a large margin , i . e . , it selects more correct texts among the top n .	'Entailed'

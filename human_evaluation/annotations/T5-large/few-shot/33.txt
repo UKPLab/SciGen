@@ -1,0 +1,3 @@
+< extra_id_0 > syl - concatenation for dlm and ppl .	'N/A'
+the results reported in table 5 show that rhn - syl - concatenation outperforms both lstm and variational rhn .	'Incorrect'
+compared to rhn - char - cnn , the rhn model has a smaller ppl .	'Incorrect'

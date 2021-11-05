@@ -1,0 +1,3 @@
+as expected , template 1 produces the most correct texts ( avg . c @ n : avg . number of correct texts among the top 30 most frequent hypotheses ) , scoring 1 . 9 % more correct texts than template { 1 + 2 } and	'Incorrect'
+template 2 produces the second - most correct texts , scoring 1 . 3 % more correct texts than template { 1 + 2 } .	'Incorrect'
+adding a reranker further improves the performance to 1 . 7 % c @ 30 , and template { 2 + 2 } produces the next best text , scoring 3 . 3 % .	'Incorrect'

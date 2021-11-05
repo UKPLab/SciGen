@@ -1,0 +1,4 @@
+we also compared the f1 scores of the predicted chunk sequences obtained by the parse decoder with ground - truth chunk sequences from an external parser in the target language .	'Incorrect'
+we can see that when the parser deviates from its predicted chunk sequence , it usually results in a translation that is closer to the ground truth target syntax , while	'Incorrect'
+the translation produced by the token decoder closely follows the predicted sequence .	'Incorrect'
+the improvement obtained by jointly training the two decoders is 89 . 9 % in f1 - score .	'Incorrect'

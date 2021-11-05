@@ -1,0 +1,2 @@
+the byte - pair encoded model outperforms the word - only model on all language pairs except for german - english on the wmt dataset .	'Incorrect'
+on the iwslt dataset , bpe 16k performs slightly better than bpe 32k , but the gains are not as large .	'Extra'

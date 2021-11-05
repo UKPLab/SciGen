@@ -1,0 +1,5 @@
+All syllable-aware models comfortably outperform the Char-CNN when the budget is limited to 5M parameters
+A pure word-level model, 6 LSTM-Word, also beats the character-aware one under such budget
+The three best configurations are Syl-Concat, Syl-Sum, and Syl-CNN-3 (hereinafter referred to as Syl-CNN) and their hyperparameters are tuned under 20M parameter budget
+The models demonstrate similar performance on small data, but Char-CNN scales significantly better on medium-sized data
+From the three syllable-aware models, Syl-Concat looks the most advantageous as it demonstrates stable results and has the least number of parameters

@@ -1,0 +1,5 @@
+in order to evaluate the performance of the proposed embeddings , we compare them with the baseline glove model trained on the same corpus with the same training procedure .	'Extra'
+the results show that the proposed approach significantly outperforms the baseline in terms of the precision , recall and f - measure for both types of concepts .	'Extra'
+the proposed approach achieves the best performance for the ‘ t / n ’ type of concepts , while the baseline performs the best for ‘ both ’ types .	'Extra'
+we observe that the concatenation of the embeddings from both the google and topic - wiki corpora gives the best overall results , outperforming the previous state - of - the - art by a substantial margin .	'Incorrect'
+we also observe that adding the idf - based similarity measure improves the f1 - score slightly , but not as much as using the tf - idf weighting scheme .	'Incorrect'

@@ -1,0 +1,4 @@
+char - cnns outperform syl - concat and syl - sum by a large margin in almost all languages , and the gains are statistically significant ( t - test , p - value < 0 . 01 ) across all language pairs .	'Incorrect'
+the character - based models outperform the two word - level models by a significant margin ( p - value < 0 . 05 ) in english , which is a morphologically - rich language with rich agglutinative features .	'Incorrect'
+the gains are smaller in languages with less rich morphology ( es , fr , es , de , cs , ru , cs and ru ) .	'Hallucinated'
+for data partitioning ( data - s and data - l ) , the performance of the three models is very close and even surpasses the results of the combined model .	'Hallucinated'

@@ -1,0 +1,3 @@
+< extra_id_0 > and span f1 results on the development set of a newsqa bidaf model baseline vs . one finetuned on squad using a 2 - stage synnet ( mnewsqa ) are shown in table 3 .	'Hallucinated'
+the exact match ( em ) and span f1 results on the development set of a newsqa bidaf model baseline are compared with those on a newsqa development set finetuned with a 2 - stage synnet ( snet ) .	'Incorrect'
+the exact match ( em ) and span f1	'N/A'

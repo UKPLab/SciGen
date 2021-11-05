@@ -1,0 +1,3 @@
+sees that irnet achieves significant performance improvement over syntaxsqlnet on the hard questions ( with p - value 0 . 05 ) .	'Extra'
+irnet ( bert ) also achieves significant performance improvement over syntaxsqlnet on the easy questions ( with p - value 0 . 05 ) .	'Extra'
+irnet ( bert ) outperforms syntaxsqlnet on the extra difficult questions .	'Extra'

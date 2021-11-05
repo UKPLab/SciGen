@@ -1,0 +1,5 @@
+from the results , we can see that : ( 1 ) using both tf and idf information improves the f - score of the proposed embeddings significantly .	'Entailed'
+this is due to the fact that the idf information plays an important role in separating the positive and negative classes : the higher the score is , the more positive the category label is .	'Incorrect'
+( 2 ) using only one of the embedding dimensionality of the given concept input outperforms the other one , which demonstrates the advantage of using a larger dimensionality in our embedding layer .	'Incorrect'
+( 3 ) using the description information does not improve the idf score .	'Incorrect'
+the reason may be related to the lack of enough training data to train a description embedding for this task .	'Incorrect'

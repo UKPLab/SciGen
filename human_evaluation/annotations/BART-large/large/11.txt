@@ -1,0 +1,8 @@
+all models were trained on a geforce gtx 1080ti gpu with a batch size of 64 .	'Hallucinated'
+we used the adam optimizer with an initial learning rate of 0 . 001 and dropped the learning rate by a factor of 10 at epochs 50 , 75 and 90 .	'Hallucinated'
+the learning rate was decayed to 0 . 0001 after epochs 100 , 200 and 200 .	'Hallucinated'
+we did not use dropout in our models .	'Hallucinated'
+the number of epochs was set to 20 , 000 , and the number of heads per layer is set to 128 .	'Hallucinated'
+the word embeddings were initialized with glove pennington et al .	'Hallucinated'
+all models are implemented in pytorch and trained on an intel i7 - 4790k cpu @ 3 . 40ghz with 8gb memory .	'Hallucinated'
+the models are evaluated on a nvidia titan xp gpu .	'Hallucinated'

@@ -1,0 +1,2 @@
+table 3 shows that bert and esim significantly improve their performance on the supports and refutes cases from the fever dev set and on the generated pairs for the symmetric test set in the setting of without ( base ) and with ( r . w ) re - weight .	'Incorrect'
+the difference in accuracy between the baselines is minimal , but significant enough to show that the bert classifiers are well - equipped to distinguish between the true response and negative responses .	'Incorrect'

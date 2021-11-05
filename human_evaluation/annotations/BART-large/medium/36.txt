@@ -1,0 +1,3 @@
+single - evidence claims refers to the claims that are only supported by a tfidf summary .	'Hallucinated'
+we can see that the fever - based system achieves 66 . 1 % in terms of evidence retrieval , and 68 . 3 % if only the titles of the relevant documents are used as the evidence .	'Extra'
+providing full documents as additional evidence can increase this to 81 . 2 % and 90 . 1 % , which is an absolute improvement of 2 . 5 % .	'Extra'

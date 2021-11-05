@@ -1,0 +1,5 @@
+for the ext . and mv sub - tasks , we submitted models for official evaluation on the test set of the conll - 2009 ner task .	'Extra'
+the models were submitted using the official evaluation scripts provided by the ner evaluation committee .	'Hallucinated'
+for each sub - task , models were trained and evaluated on the in - domain train set and tested on the out - of - domain test set .	'Extra'
+the results show that models trained on one task perform better than those trained on other for the both ext . and vc .	'Extra'
+for example , for the mv classifier , the model trained on task 1 ( ext . ) . the results for task 2 ( mv classifier ) are slightly worse than those for task 1 , indicating that there is still room for improvement for the model to improve .	'Extra'

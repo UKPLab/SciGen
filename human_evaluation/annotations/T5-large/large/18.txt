@@ -1,0 +1,2 @@
+increasing the number of layers in synst ’ s parser significantly lowers the speedup while marginally impacting bleu .	'Entailed'
+we also find that randomly sampling 1 . . . 6 during training boosts bleu significantly with minimal impact on speedup .	'Entailed'

@@ -1,0 +1,5 @@
+we further divide the questions into three categories based on the hardness level : easy , medium and extra .	'Extra'
+the results show that irnet ( bert ) achieves the best performance on the easy and extra difficulty level , while syntaxsqlnet is the best on the medium difficulty level .	'Incorrect'
+the reason is that bert is a strong baseline for sql matching , which is used to pre - train the word embeddings of the question and candidate sql query .	'Incorrect'
+however , bert does not perform well for the task of sql matching .	'Incorrect'
+on the other hand , irnet achieves a better performance than bert on all the three categories .	'Entailed'

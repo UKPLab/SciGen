@@ -1,0 +1,5 @@
+< extra_id_0 > and . 622 respectively .	'N/A'
+the effect of adding premises to premises is shown in table 1 .	'Hallucinated'
+the effect of adding premises to premises is shown in table 1 .	'N/A'
+the effect of adding premises to premises reduces the accuracy of esim and transformer .	'Incorrect'
+the effect of adding titles to premises improves the accuracy of esim and transformer .	'Incorrect'

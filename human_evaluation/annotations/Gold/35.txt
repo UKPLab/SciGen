@@ -1,0 +1,2 @@
+The named entity retrieval strategy boosts the evidence retrieval rate to 80.8%
+The film retrievals raise evidence retrieval to 81.2%.

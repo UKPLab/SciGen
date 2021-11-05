@@ -1,0 +1,3 @@
+we show results for the p - coref based systems ( ppr , ppr_w2w , pprnf and dfs_ppr ) as well as for the p - coref - based systems ( ppr_w2w , pprnf and dfs_ppr ) .	'Extra'
+the results show that the p - coref systems obtain significantly better results than the p - coref systems on all corpora .	'Incorrect'
+the dfs_ppr system performs slightly better than the p - coref systems on the s15 corpus , but not on the p - coref system .	'Extra'

@@ -1,0 +1,2 @@
+can see that in general the f1 - score is higher in half - sequences ,	'Hallucinated'
+with the exception of the illegal onion dataset , where the f1 - score is lower in half - sequences .	'Hallucinated'

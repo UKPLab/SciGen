@@ -1,0 +1,3 @@
+the performance of the models on the training and development set is presented in table 1 .	'Hallucinated'
+all models trained on the unsupervised dataset have exactly one error according to our lmi metric .	'Incorrect'
+the difference is most prevalent in the development set , where all models except for one consistently show significant ( p < 0 . 05 ) difference .	'Incorrect'

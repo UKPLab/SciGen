@@ -1,0 +1,2 @@
+we observe that the stacked bi - lstm model outperforms all previous models , achieving a state - of - the - art result of 97 . 55 % accuracy on the ptb test set .	'Incorrect'
+we also observe that even a single stacked birnn can achieve this performance , outperforming the previous best result of ma2016end by 0 . 8 % accuracy .	'Incorrect'

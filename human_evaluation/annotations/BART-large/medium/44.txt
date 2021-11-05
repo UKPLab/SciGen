@@ -1,0 +1,4 @@
+s2 , s3 , s07 , s13 , and s15 .	'N/A'
+our best performing model outperforms the previous state - of - the - art results reported in raganato et al . ( 2017b ) by 1 . 8 f1 points , 1 . 7 f1 point , and 1 . 4 f1 score , respectively .	'Incorrect'
+note that we use the same hyperparameters for all of the systems as those reported in the original paper .	'Hallucinated'
+our model performs best on s2 and s3 .	'Hallucinated'

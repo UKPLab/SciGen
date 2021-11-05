@@ -1,0 +1,3 @@
+< extra_id_0 > 2 stacked bilstm models achieve the best performance .	'Entailed'
+overall , we see that our model outperforms all the other models with a margin .	'Incorrect'
+however , we see that our model performs significantly worse on the training set and the test set .	'Incorrect'

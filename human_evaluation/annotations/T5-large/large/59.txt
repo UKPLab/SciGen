@@ -1,0 +1,2 @@
+bi with a smoothing factor of = 0 . 5 is chosen for submission based on available development data .	'Entailed'
+for each language pair , bi with = 0 . 1 outperforms the uniform ensemble with = 0 . 5 , showing the effectiveness of bi with this smoothing factor .	'Entailed'

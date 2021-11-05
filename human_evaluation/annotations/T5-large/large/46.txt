@@ -1,0 +1,4 @@
+yang et al . shortciteyang2016deep report a classification accuracy of 73 . 95 % on swbd and 80 . 76 % on swbd2 datasets for their feature - based models based on bag - of - words ( bow ) , tf - idf based features ( tf - idf ) and logistic regression respectively .	'Extra'
+we also report a classification accuracy of 90 . 82 % for swbd and 87 . 57 % for swbd2 datasets which are the official test sets of the swbd shared task .	'Extra'
+we observe that the bigram + svm outperforms the hn - att baseline on both datasets .	'Extra'
+the best performing model is the logistic regression classifier which outperforms all other models on both datasets .	'Extra'

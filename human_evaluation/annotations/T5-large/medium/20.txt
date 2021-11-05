@@ -1,0 +1,1 @@
+character - level model outperforms the word - level model in terms of overall correctness across all error types , with the exception of punctuation errors and grammatical errors where the difference between the e2e and webnlg models is less than 1 % .	'Incorrect'

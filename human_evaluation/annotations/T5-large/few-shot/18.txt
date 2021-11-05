@@ -1,0 +1,4 @@
+< extra_id_0 > while increasing bleu .	'N/A'
+increasing the number of layers in synst ’ s parse decoder significantly lowers the speedup while marginally impacting bleu .	'Extra'
+increasing the number of layers in synst significantly lowers the speedup while increasing bleu .	'Extra'
+increasing the number of layers also boosts the bleu , but only marginally .	'Extra'

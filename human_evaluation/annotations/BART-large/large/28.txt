@@ -1,0 +1,3 @@
+the results show that using an auto - regressive rnn as the decoder and a cnn as the encoder leads to the best performance on all the tasks .	'Incorrect'
+this is consistent with the results of our ablation experiments where the autoencoder and decoder have the same architecture and the only difference between them is the number of parameters .	'Incorrect'
+the results also indicate that using a pre - trained , pre - training , and fine - tuned auto - encoder is better than using a randomly initialized , un - pretrained , and randomly initialized decoder in most of the cases .	'Incorrect'

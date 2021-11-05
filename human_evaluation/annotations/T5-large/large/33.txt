@@ -1,0 +1,3 @@
+we find that rhn - char - cnn outperforms rhn - syl - concat in terms of perplexity , while	'Incorrect'
+rhn - syl - concat outperforms rhn - char - cnn in terms of perplexity , but is worse than rhn - char - cnn in terms of perplexity .	'Incorrect'
+we conjecture that this is because character - level rhn has more parameters than character - level rhn , and character - level rhn has more parameters than syntactic - based rhn .	'Hallucinated'

@@ -1,0 +1,5 @@
+using the crowdsourced data , we identified 447 sentences from the sst2 dataset which got marked as neutral and which got the opposite of their labels in the sst2 dataset .	'Extra'
+we crowdsourced another 234 sentences , which got the opposite of their labels in the sst2 dataset .	'Extra'
+we used various thresholds of 0 . 50 , 0 . 66 , 0 . 75 and 0 . 90 for the sst2 dataset .	'Extra'
+we also experimented with no - distill , no - project , and elmo on these 447 sentences .	'Extra'
+we found that the no - project approach leads to higher inter - annotator agreement than the no - distill , no - project approaches .	'Extra'

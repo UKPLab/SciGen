@@ -1,0 +1,2 @@
+we can see that using a cnn as the decoder results in worse performance than using a plain rnn as decoder , which is consistent with the observations in \ newcitesidaw12acl .	'Incorrect'
+we also observe that using an always - sampling decoder ( i . e . , always sampling and uniform sampling ) , which is similar to our proposed teacher forcing method , does not perform as well as using a convolutional layer or an auto - regressive model .	'Incorrect'

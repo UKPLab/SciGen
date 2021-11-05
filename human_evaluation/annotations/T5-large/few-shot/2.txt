@@ -1,0 +1,4 @@
+< extra_id_0 > and biobert dev .	'N/A'
+the results of the bert and biobert tests are shown in table 4 .	'Hallucinated'
+the mednli model outperforms all the other models with a margin .	'Incorrect'
+the mednli model outperforms all the other models with a margin .	'N/A'

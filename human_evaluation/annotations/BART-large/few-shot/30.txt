@@ -1,0 +1,3 @@
+bleu scores are shown in table 2 for training nmt models with full word and byte pair encoded vocabularies .	'Hallucinated'
+the smaller bpe vocabulary size limits performance to 50k words , which is comparable to the size of word embeddings in wmt documents .	'Hallucinated'
+bpe models trained with annealing adam outperform the best previous state - of - the - art models with a full word vocabulary size of 32k .	'Incorrect'

@@ -1,0 +1,6 @@
+first , the quality of the sentence embeddings is controlled by their capacity to process long sequences of data .	'Entailed'
+for sick - r and sick - e , the quality of the embeddings is controlled by their capacity to process long sequences of data .	'Entailed'
+for sick - r , the quality of the sentence embeddings is controlled by the capacity of the encoders and the decoders .	'Incorrect'
+for sick - e , the quality of the sentence embeddings is controlled by the capacity of the decoders .	'Incorrect'
+for sick - e , the quality of the sentence embeddings is controlled by their capacity to process long sequences of data .	'Hallucinated'
+for sick - e , the quality of the sentence embeddings is controlled by the capacity of the decoders .	'N/A'

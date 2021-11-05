@@ -1,0 +1,5 @@
+the first section is prefix baselines ,	'Hallucinated'
+the second section is recent unsupervised methods ,	'Hallucinated'
+the third section is the state - of - the - art supervised method along with our implementation of a seq - to - seq model with attention ,	'Entailed'
+the bottom section is our model ’ s implementation of an abstractive summarization model along with the contextual oracle .	'Hallucinated'
+we note that the best score of cao et al . ( 2018 ) is by author correspondence , which we attempted to replicate on our test set , but were unable to replicate due to difficulty with the evaluation setup .	'Incorrect'

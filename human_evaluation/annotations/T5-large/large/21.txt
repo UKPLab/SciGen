@@ -1,0 +1,3 @@
+compared to the e2e system , the webnlg system has a higher percentage of unique texts ( i . e . texts with at least three characters appearing in the input ) compared to the e2e system ( i . e . texts with at least three words appearing in the input ) .	'Incorrect'
+compared to the e2e system , the webnlg system has a higher percentage of unique texts ( i . e . texts with at least three characters appearing in the input ) .	'N/A'
+the percentage of unique sentences is higher for the e2e system compared to the webnlg system ( i . e . , sentences with at least three characters appearing in the input ) . ,	'Extra'

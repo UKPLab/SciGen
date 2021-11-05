@@ -1,0 +1,2 @@
+can be seen that glove performs well on unseen pairs , and even outperforms a baseline that predicts only on unseen pairs .	'Incorrect'
+this shows that glove can generalize to unseen pairs with a small amount of training data , even if the training data is not large .	'Hallucinated'

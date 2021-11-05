@@ -1,0 +1,5 @@
+the results in table 4 show that e2e and webnlg development set outperform the best previous approaches using only human reference , confirming the value of human reference .	'Incorrect'
+the difference between bleu and rouge - l is less pronounced than in the previous experiments ,	'Incorrect'
+but still suggests some advantage to using human reference as prediction once .	'Hallucinated'
+finally , the difference between average weighted f1 scores of the human reference and the reference obtained by the web - based embeddings is less significant than in previous experiments .	'Incorrect'
+with these results , we can conclude that it is better to rely on human reference alone than on cross - references .	'Incorrect'

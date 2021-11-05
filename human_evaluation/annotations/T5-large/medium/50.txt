@@ -1,0 +1,2 @@
+further improves the accuracy of the classifiers on the supports and refutes cases for the symmetric test set in the setting of re - weighting with residual weights ( r . w ) .	'Incorrect'
+the results show that re - weighting has a positive effect both for the models and on the generated pairs .	'Incorrect'

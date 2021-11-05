@@ -1,0 +1,4 @@
+table 3 shows test set f1 on the cnn , lstm and cnnmrr tasks .	'Hallucinated'
+the baseline model ( bl ) achieves state - of - the - art results on all metrics with a gap of 10 . 8 % on average compared to the previous state of the art models .	'Incorrect'
+the difference is most prevalent in cnn , which shows the performance drop of more than 10 % compared to baseline models .	'Hallucinated'
+all models except bl + c - lstm outperform their baseline counterparts on average .	'Incorrect'

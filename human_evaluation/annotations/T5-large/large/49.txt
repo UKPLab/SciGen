@@ -1,0 +1,2 @@
+can be seen that syntaxsqlnet achieves the best performance on sql queries , and syntaxsqlnet ( bert ) achieves the best performance on semql queries .	'Entailed'
+this shows that syntaxsqlnet is effective in generating semql queries even if the generated sql is good .	'Entailed'

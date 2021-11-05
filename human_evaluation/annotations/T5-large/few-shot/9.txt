@@ -1,0 +1,6 @@
+< extra_id_0 > wmt en - de bleu and wmt en - fr bleu .	'Hallucinated'
+wmt en - de and en - fr are significantly worse than the baselines ,	'Incorrect'
+wmt de - en and wmt en - fr are significantly faster than the baselines , and	'Incorrect'
+iwslt en - de is significantly worse than the baseline .	'Incorrect'
+the model outperforms both baselines in terms of bleu and bleu ,	'Incorrect'
+but wmt en - de is significantly faster .	'Incorrect'

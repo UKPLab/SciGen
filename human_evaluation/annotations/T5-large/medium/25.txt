@@ -1,0 +1,2 @@
+temp5 and temp10 consistently outperform the non - adversarial baselines in both rouge and cr .	'Incorrect'
+interestingly , the non - adversarial baseline na + cat performs similarly to temp5 and temp10 in the extractive setting as well	'Hallucinated'

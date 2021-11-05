@@ -1,0 +1,5 @@
+the results are shown in table 15 .	'Hallucinated'
+all models show improvements on the single context sentence and context sentence tests , with	'Incorrect'
+the exception of pprnf , which shows severe performance drop in both cases .	'Incorrect'
+the best performances are obtained by dfs - ppr , which obtains 69 . 9 % on the average context sentence	'Incorrect'
+compared to ppr , and ppr - w2w , which achieves 66 . 2 % and 63 . 4 % on average context sentences , respectively , compared to the previous state of the art models .	'Incorrect'

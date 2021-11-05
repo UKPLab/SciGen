@@ -1,0 +1,2 @@
+< extra_id_0 > word model had the lowest ppl score , while model char - cnn had the highest ppl score .	'Incorrect'
+all models have 5m parameters , which means that the model with the highest ppl score is syl - lstm	'Incorrect'

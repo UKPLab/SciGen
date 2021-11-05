@@ -1,0 +1,4 @@
+results on pos tagging are shown in table 6 .	'Hallucinated'
+bilstm outperforms all supervised and unsupervised models except for sasaki et al . ( 2011 ) .	'Incorrect'
+the results are broken down in terms of performance on training and test set , with the exception of manning2011 , which obtains a performance improvement on part of the training set .	'Hallucinated'
+the best performance on ptb dataset is obtained by els reported in our second submission , which shows the performance of our model in the transfer phase .	'Hallucinated'

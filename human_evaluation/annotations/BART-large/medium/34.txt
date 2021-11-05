@@ -1,0 +1,4 @@
+in this section , we investigate the effect of adding titles to the premise of fever claims by adding the words “ support ” and “ claim ” to the input text .	'Hallucinated'
+the results show that adding a title improves the ability of the model to produce good results .	'Entailed'
+in particular , the support accuracy of the esim model increases from . 760 to . 846 and the claim accuracy from . 639 to . 622 .	'Extra'
+the transformer model achieves the best results with . 958 and . 823 in terms of support and claim accuracy respectively .	'Extra'

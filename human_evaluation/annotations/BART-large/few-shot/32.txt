@@ -1,0 +1,4 @@
+the results of all models are shown in table 1.	'Hallucinated'
+syl - cnn outperforms the data - s models in terms of all three domains .	'Incorrect'
+it achieves competitive or better results than the best - performing data - l models on all metrics except for es .	'Incorrect'
+among all models , it is the superior performer on ru and es .	'Incorrect'

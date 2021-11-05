@@ -1,0 +1,1 @@
+can be seen that the re - weighting has a positive impact on the accuracy of the classifiers on the supports and refutes cases for all three models ( esim , bert , nsmn ) in both the settings of re - weighting with and without the grammatical weighting .	'Entailed'

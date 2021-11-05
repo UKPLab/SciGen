@@ -1,0 +1,3 @@
+can be observed that for the first sub - task , the performance on the classification sub - task was worse than the performance on the identification sub - task .	'Extra'
+for the second sub - task , the performance on the classification sub - task was better than on the identification sub - task .	'Extra'
+for the third sub - task , the performance on the classification sub - task was slightly better than on the identification sub - task .	'Extra'

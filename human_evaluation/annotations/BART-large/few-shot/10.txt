@@ -1,0 +1,3 @@
+the results of s - lstm with and without dummy nodes are shown in table 2 .	'Hallucinated'
+with ⟨ s ⟩ as inputs , our model obtains significant gains in accuracy and time ( s ) over the best previous state - of - the - art models , confirming the effectiveness of our model .	'Incorrect'
+however , when adding dummy nodes , the results are only comparable with those without , showing that the performance reach the best when using only plain random hidden nodes .	'Incorrect'

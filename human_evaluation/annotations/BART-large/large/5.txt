@@ -1,0 +1,4 @@
+in order to evaluate the performance of the proposed embeddings , we compare them with the baseline glove model trained on the training set of conceptnet .	'Hallucinated'
+we report the precision ( p ) , recall ( r ) and f - measure ( f ) scores for the entity - concept pairs that were not seen during the training phase .	'Hallucinated'
+we also report the performance for the concept pairs that did not see any training data .	'Hallucinated'
+we can see that the addition of the tf - idf - embeddings consistently improves the performance , especially for the ‘ both ’ category , which is the most challenging one .	'Entailed'

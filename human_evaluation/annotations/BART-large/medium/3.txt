@@ -1,0 +1,4 @@
+we evaluate elmo on the sst2 task in table 2 .	'Hallucinated'
+we show the model performance for the “ no - project ” and “ but ” groups , and compare the model ’ s performance for negated and but - but - b sentences .	'Incorrect'
+the distillation model performs better than the no - project model for both groups	'Entailed'
+suggesting that the distillation process encourages elmo to focus more on the correct label of the target label.	'Extra'

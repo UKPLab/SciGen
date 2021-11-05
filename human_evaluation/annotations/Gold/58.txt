@@ -1,0 +1,3 @@
+We experiment with BI (α = 0.1)
+In this case BI matches or out-performs the uniform ensemble
+Notably, for en2es, where BI (α = 0.5) performed well, taking α = 0.1 does not harm performance

@@ -1,0 +1,3 @@
+our s - lstm model outperforms the previous state - of - the - art models by 1 . 53 % in terms of accuracy on the test set .	'Incorrect'
+note that our model is much simpler than the ones used in \ newcitesocher2011semi and \ newcitewang2012semantic , and does not require any heavy feature engineering effort .	'Hallucinated'
+moreover , it is also much faster than the transformer , which requires 8 - layer transformer to be trained and tested on the same dataset .	'Hallucinated'

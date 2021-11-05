@@ -1,0 +1,4 @@
+sees that accuracy for the “ new ” pairs is lower than for the “ all ” pairs ,	'Incorrect'
+but that the accuracy is lower than for the “ new ” pairs , even though the “ all ” pairs have the same number of edges .	'Incorrect'
+the reason for this is that the “ new ” pairs do not have the same number of edges as the “ all ” pairs , and it is	'Incorrect'
+therefore more difficult to predict their positions .	'Incorrect'

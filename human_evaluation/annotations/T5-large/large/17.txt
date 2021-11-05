@@ -1,0 +1,3 @@
+both character - based and word - based models outperform the strong baselines from tilburg - smt and upf - forge for both metrics .	'Hallucinated'
+the character - based model also outperforms the word - based model for both bleu and rouge - l .	'Incorrect'
+the difference in bleu between word - based and character - based models might be explained by the fact that upf - forge used a different training corpus than the one used in our experiments .	'Hallucinated'

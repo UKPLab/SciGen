@@ -1,0 +1,4 @@
+can see that ppr consistently outperforms the other context based methods (ppr_w2w , pprnf and dfs_ppr ) across all the datasets .	'Incorrect'
+moreover , the performance of ppr_w2wnf is slightly worse than the performance of ppr on the whole dataset s07 ,	'Incorrect'
+which suggests that the use of context information is more important than the use of context information for understanding the data .	'Hallucinated'
+on the other hand , comparing the performance of ppr and dfs_ppr , we find that ppr_wnf and ppr on their own do not significantly improve the performance .	'Incorrect'

@@ -1,0 +1,3 @@
+< extra_id_0 > and 2 bilstm are shown in table 4 .	'Hallucinated'
+the performance of our model outperforms the current state - of - the - art bilstm model by a margin .	'Incorrect'
+the results of our model outperform the current state - of - the - art in all metrics .	'Hallucinated'

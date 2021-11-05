@@ -1,0 +1,5 @@
+The two top rows in Table 1 show conflicting results for UKB.
+That paper reports a suboptimal use of UKB
+The table reports the best performing knowledge-based systems on this dataset and the latest work on this area.
+The table reports the most frequent sense as given by WordNet counts
+The table shows that UKB yields the best overall result.

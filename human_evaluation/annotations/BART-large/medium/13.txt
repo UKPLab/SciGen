@@ -1,0 +1,7 @@
+the time complexity of slstm and bilstm models is measured by the average number of frames per second ( ms ) , while the time taken by the 2 - layers models is proportional to the number of videos .	'Hallucinated'
+we can observe that slstms are able to achieve the best performance in terms of time complexity , whereas bi - lstms and cnns are the slowest ones .	'Entailed'
+however , the time complexity is not negatively correlated with the performance of these models . for instance,	'Extra'
+a 2 - layer cnn can achieve accuracies of 88 . 07 % and 88 . 05 % on the dvd and kitchen datasets , respectively,	'Extra'
+while a single layer cnn achieves accuracy of 87 . 05 % .	'Extra'
+in terms of training time , we can see that a 2 layer cnn is more than three times faster than a 1 layer cnn .	'Extra'
+moreover , the training time of a 1 - layer bidirectional lstm is only 1 time slower than that of a 2 layered lstms .	'Extra'

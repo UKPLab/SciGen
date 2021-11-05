@@ -1,0 +1,2 @@
+show that syntaxsqlnet outperforms all the baselines on both sql and semql , which demonstrates the effectiveness of syntaxsqlnet .	'Incorrect'
+it is worth noting that bert embeddings have better performance than other pre - trained embeddings , which demonstrates the effectiveness of syntaxsqlnet .	'Hallucinated'

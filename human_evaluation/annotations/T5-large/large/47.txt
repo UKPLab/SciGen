@@ -1,0 +1,5 @@
+irnet achieves 53 . 2 % exact matching accuracy on development data and 54 . 7 % exact matching accuracy on test data ,	'Extra'
+which outperforms the previous state - of - the - art sqlnet by 12 . 4 % absolute absolute .	'Extra'
+syntaxsqlnet with bert achieves 25 . 0 % exact matching accuracy on development data and 25 . 4 % exact matching accuracy on test data , which is	'Extra'
+even better than syntaxsqlnet with bert , which achieves 25 . 4 % exact matching accuracy on development data and 25 . 4 % exact matching accuracy on test data .	'Incorrect'
+irnet with bert achieves 53 . 2 % exact matching accuracy and 54 . 7 % exact matching accuracy , which is even better than the previous state - of - the - art .	'Extra'

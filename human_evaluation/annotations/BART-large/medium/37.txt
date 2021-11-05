@@ -1,0 +1,3 @@
+fever score refers to the percentage of claims that are deemed essential to the success of the system.	'Extra'
+an oracle score is used when the fever score on the development set is greater than or equal to 0 . 5 .	'Extra'
+the system using the ne + film retrieval model achieves . 5736 on development set , . 5539 on test set , and . 5844 on development and test set.	'Extra'

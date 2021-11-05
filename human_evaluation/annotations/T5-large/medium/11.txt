@@ -1,0 +1,2 @@
+can see that the s - lstm achieves the same accuracy as the lstm with only a fraction of the parameters .	'Entailed'
+the s - lstm is able to achieve similar accuracy as the lstm without any augmentation .	'Entailed'

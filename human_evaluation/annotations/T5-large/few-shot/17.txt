@@ -1,0 +1,5 @@
+< extra_id_0 > on the development set , and avgsd of ten runs .	'N/A'
+own results correspond to single best model on development set , and avgsd of ten runs .	'Incorrect'
+webnlg test set results are summarized in table 3 .	'Hallucinated'
+the best model on development set is bleu , which achieves 32 . 1 points and avgsd of 43 . 3 points .	'Incorrect'
+on the test set , upf - forge achieves 39 . 7 points and 58 . 4 points respectively .	'Hallucinated'

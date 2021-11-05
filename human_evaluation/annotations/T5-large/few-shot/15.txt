@@ -1,0 +1,2 @@
+< extra_id_0 > and rei : 2017 : long outperform collobert and huang , respectively , in f1 and test1 .	'Incorrect'
+our model outperforms all the previous state - of - the - art models in terms of f1 score .	'Incorrect'

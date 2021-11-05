@@ -1,0 +1,2 @@
+model architecture , training procedure , and number of epochs are shown in tab .	'Hallucinated'
+our best model achieves a f1 score of 91 . 93 , outperforming the previous state - of - the - art model , newciteluo2015joint , by a large margin of 1 . 6 % .	'Extra'

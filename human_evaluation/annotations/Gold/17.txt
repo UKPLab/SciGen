@@ -1,0 +1,3 @@
+On the WebNLG test set, the BLEU score of our best word-based model outperforms the best challenge submission by a small margin.
+The character-based model achieves a significantly higher ROUGE-L score than the word-based model.
+The BLEU score difference is not significant.

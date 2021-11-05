@@ -1,0 +1,4 @@
+can be seen that the performance of the char - cnn model is significantly better than the other models , and the improvement is statistically significant ( t - test , p - value 0 . 01 ) .	'Incorrect'
+the char - cnn model also outperforms the syl - cnn model , but the improvement is statistically insignificant ( t - test , p - value 0 . 01 ) .	'Incorrect'
+the char - cnn model also outperforms the syl - concat model , but the improvement is statistically insignificant ( t - test , p - value 0 . 01 ) .	'Incorrect'
+the char - cnn model also outperforms the syl - concat model , but the improvement is not statistically significant ( t - test , p0 . 01 ) .	'N/A'

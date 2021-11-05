@@ -1,0 +1,5 @@
+the results for in - vocabulary and out - ofvocabulary pairs are shown in table 1 .	'Hallucinated'
+in all but one case , the difference in performance between the two sets is statistically significant ( p < 0 . 01 ) with respect to invocabulary , up - to - now and previous data .	'Incorrect'
+out - of - voord ( ovo ) pairs show significant performance drop both for in the vocabulary and for the standalone embeddings.	'Incorrect'
+the difference is most prevalent in the case of standalone pairs ,	'Incorrect'
+which show that the semantic information injected into the model by the additional cost term is significant enough to result in a significant drop in performance .	'Hallucinated'

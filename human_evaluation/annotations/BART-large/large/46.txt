@@ -1,0 +1,5 @@
+we can see that our model outperforms all the baselines on both swbd and swbd2 datasets .	'Extra'
+on swbd dataset , our model achieves 89 . 47 % and 95 . 92 % accuracy , which are the new state - of - the - art results on this dataset .	'Extra'
+we also compare our model with hn - att yang et al .	'Entailed'
+our model also outperforms cnn and hn by a large margin .	'Extra'
+on the other hand , hn does not perform as well as cnn , which we attribute to the fact that it does not utilize any hand - crafted features and relies solely on word embeddings as features .	'Extra'

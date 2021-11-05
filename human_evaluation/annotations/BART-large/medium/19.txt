@@ -1,0 +1,4 @@
+in the e2e dev set , we see that char . char .	'N/A'
+the human evaluation shows that webnlg benefits from using human - annotated references to improve bleu and rouge - l.	'Incorrect'
+however , the improvement in human evaluation is not as pronounced as in the dev set .	'Incorrect'
+we believe that this is due to the fact that human annotators have differing requirements for what constitutes a “ better ” or “ worse ” response depending on the context .	'Hallucinated'

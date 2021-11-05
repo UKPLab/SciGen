@@ -1,0 +1,5 @@
+can see that in most cases , when predicting a word by its pos tag , the precision of the prediction is higher than that of the prediction .	'Extra'
+however , in some cases , the precision of the prediction is lower than that of the prediction .	'Extra'
+this is because in chinese - japanese translation , predicting a word by its pos tag is more difficult than predicting a word by its corresponding pos tag .	'Extra'
+for example , in english - french translation , the precision of the prediction of a verb is higher than that of a noun ,	'Extra'
+and the precision of a verb is higher than that of a verb .	'Extra'

@@ -1,0 +1,2 @@
+we show that by stacking cnns , we can obtain a model with comparable accuracy to state - of - the - art results on this dataset .	'Incorrect'
+we also show that by stacking cnns , we can obtain a model with comparable accuracy to state - of - the - art results while significantly reducing the number of trainable parameters .	'Incorrect'

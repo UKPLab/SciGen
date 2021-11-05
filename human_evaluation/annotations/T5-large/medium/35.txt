@@ -1,0 +1,7 @@
+use esim on fever title five and transformer on fever title one to evaluate our claim and evidence concatenation .	'Extra'
+we use esim on fever title five and esim on fever title one to evaluate our claim concatenation .	'Extra'
+we compare our claim and evidence concatenation results with the ground truth claim and evidence concatenation results .	'Extra'
+we use esim on fever title five and esim on fever title one to evaluate our claim concatenation results .	'Extra'
+the esim on fever title five outperforms the transformer on fever title one in terms of both support accuracy and claim kappa .	'Extra'
+the esim on fever title one outperforms the transformer on fever title five in terms of both support accuracy and claim kappa .	'Extra'
+the esim on fever title one also performs better than the esim on fever title five .	'Extra'

@@ -1,0 +1,2 @@
+the health → all - biomed schedule improves over the health schedule for es2en and en2es , but not for en2en bio .	'Incorrect'
+we hypothesize that this is due to the fact that the bio domain is more similar to the health domain than the other two domains , and thus the health curriculum is less useful for the bio dataset .	'Hallucinated'

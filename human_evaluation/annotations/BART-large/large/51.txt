@@ -1,0 +1,4 @@
+we can see that the most frequent bigram in the training data is “ at least one ” , followed by “ united states ” and “ at least one of the presidents ” .	'Hallucinated'
+the other bigrams are similar to those in the development data , with the exception of “ later ” being more frequent in the train data .	'Hallucinated'
+for example , the development lmi for the word “ chosen ” ranges from 0 . 44 to 0 . 77 , whereas the training lmi ranges from a 0 . 48 to an ⋅ 10 − 6 .	'Hallucinated'
+this suggests that the model is sensitive to the choice of bigram .	'Hallucinated'

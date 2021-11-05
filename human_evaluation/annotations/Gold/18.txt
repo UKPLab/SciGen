@@ -1,0 +1,4 @@
+Increasing the number of layers from 1 to 5 results in a BLEU increase of only 0.5,
+This results in the speedup dropping from 3.8× to 1.4×
+Exposing the parse decoder to multiple possible chunkings of the same sentence during training allows it to choose a sequence of chunks that has a higher likelihood at test time, 
+This improves BLEU by 1.5 while decreasing the speedup from 3.8× to 3.1×

@@ -1,0 +1,5 @@
+the results of the direct and indirect test sets are shown in table 3 .	'Hallucinated'
+directed models outperform their unsupervised counterparts on all metrics except for te3 .	'Incorrect'
+the difference is most prevalent in relation to td , with tl2rtl ( lτ ) consistently showing lower performance compared to both the lτ and lτce models .	'Incorrect'
+with respect to te3 , both indirect and direct test sets perform better on the standard task .	'Incorrect'
+in particular , all models show lower performance on the te3 task when trained and tested on the same dataset .	'Incorrect'

@@ -1,0 +1,3 @@
+results on the newsqa development set of a bidaf model finetuned with a 2 - stage synnet ( mnewsqa ) on squad are shown in table 3 .	'Hallucinated'
+the improvements are significant , both in terms of match rate and span f1 score ( differences are statistically significant with t - test , p < 0 . 01 ) .	'Incorrect'
+the difference is most striking in the accuracy on mnewsqa , which shows that the finetuning approach significantly boosts the general performance .	'Hallucinated'

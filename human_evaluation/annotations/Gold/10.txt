@@ -1,0 +1,4 @@
+Adding one additional sentence-level node does not lead to accuracy improvements, although the number of parameters and decoding time increase accordingly. 
+The accuracies of S-LSTM increases as the hidden layer size for each node increases from 100 to 300.
+The accuracies of S-LSTM does not further increase when the size increases beyond 300, which is fixed as the hidden size accordingly.
+Without using (cid:104)s(cid:105) and (cid:104)/s(cid:105), the performance of S-LSTM drops from 82.64% to 82.36%, showing the effectiveness of having these additional nodes.

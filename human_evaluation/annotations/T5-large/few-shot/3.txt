@@ -1,0 +1,6 @@
+< extra_id_0 > of no - distill and project on the sst2 task .	'N/A'
+we show performance on a - but - b sentences ( “ but ” ) , and on negative sentences ( “ neg ” ) .	'Extra'
+we show the average performance ( across 100 seeds ) of elmo on the sst2 task .	'Extra'
+we show performance on a - but - b sentences ( “ but ” ) , and on a - but - c sentences ( “ neg ” ) .	'Entailed'
+we show the average performance of no - distill on the test set and on the final test set .	'Incorrect'
+we show performance	'N/A'

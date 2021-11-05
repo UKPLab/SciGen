@@ -1,0 +1,4 @@
+< extra_id_0 > 25 . 3 % cap > table 2 : exact matching accuracy of syntaxsqlnet , syntaxsqlnet ( bert ) , irnet and irnet ( bert ) on test set by test set is shown in table 2 .	'Hallucinated'
+the accuracy of syntaxsqlnet outperforms syntaxsqlnet by a significant margin .	'Incorrect'
+syntaxsqlnet achieves the best performance in easy , medium and hard settings ,	'Incorrect'
+while irnet achieves the best performance in hard and extra settings.	'Incorrect'

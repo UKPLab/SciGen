@@ -1,0 +1,4 @@
+for each bigram , we show the mean and standard deviation of its embedding vectors lmi ⋅ 10 − 6 with respect to the number of times it appears in the training set and the corresponding development set , and also the corresponding p ( l | w ) of the embedding of the bigram for each word w corresponding to that bigram .	'Extra'
+we see that words which appear in the development set tend to have higher values of lmi than those in the train set .	'Extra'
+for example , the words “ won award ” and “ american actor ” , which are used in the united states and america biographies respectively , have values lmi of 0 . 80 and 0 . 45 respectively .	'Extra'
+similarly , the term “ people who ” is also associated with a high lmi value , but its score is only 0 . 61 .	'Extra'

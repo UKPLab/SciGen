@@ -1,0 +1,5 @@
+All models perform relatively well on FEVER DEV but achieve less than 60% accuracy on the synthetic ones.
+The re-weighting method increases the accuracy of the ESIM model by an absolute 3.4%.
+The re-weighting method increases the accuracy of the BERT model by an absolute 3.3%
+This improvement comes at a cost in the accuracy over the FEVER DEV pairs. 
+Applying the regularization method, using the same training data, helps to train a more robust model that performs better on our test set, where verification in context is a key requirement.

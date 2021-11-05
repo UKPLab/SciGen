@@ -1,0 +1,12 @@
+BERT performs better on tasks in the general domain.
+BioBERT performs better on MedNLI which is in the clinical domain.
+Positive transfer occurs on MedNLI
+Even though BioBERT is fine-tuned on general domain tasks before MedNLI, transfer learning shows better results than that fine-tuned on MedNLI directly
+The domain specific language representations from BioBERT are maintained while fine-tuning on general domain tasks by showing that the transfer learning results of MedNLI on BioBERT have better performance than the results on BERT
+The accuracy of MNLI on BioBERT is lower than the accuracy on BERT.
+The accuracy of SNLI on BioBERT is lower than the accuracy on BERT.
+The best combination is SNLI → MNLI → MedNLI on BioBERT
+MedNLI (expanded) shows better performance than MedNLI on BioBERT
+MedNLI works better on BERT
+The performance of MedNLI (expanded) with transfer learning is higher on BERT than the performance of MedNLI with transfer learning
+The performance of MedNLI (expanded) with transfer learning is lower on BioBERT than the performance of MedNLI with transfer learning

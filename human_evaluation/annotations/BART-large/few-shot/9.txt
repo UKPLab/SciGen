@@ -1,0 +1,4 @@
+the results of the best performing models are shown in table 1 .	'Hallucinated'
+the best results are obtained on the wmt en - de and wmt en - fr datasets are obtained using the iwslt speedup and en - en bleu models .	'Incorrect'
+the difference in performance between the baseline and the best - performing models is mostly due to small size of the training data set ( i . e . , i . e . wmten - de speedup is 1 . 57 times as often as wmtde - en speedup ) and is 2 . 18 times as frequently compared to sat ( b = 2 ) indicating that the performance gain is due to larger training data size .	'Hallucinated'
+in addition , the difference between sat ( k = 2 ) and baseline ( b = 1 ) is less pronounced than in the other models .	'Incorrect'

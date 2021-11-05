@@ -1,0 +1,3 @@
+we compare the proposed tl2rtl model with its three variants : 1 ) tl2rtl ( l ) , 2 ) tl2rtl ( lce ) , 3 ) tl2rtl ( lh ) , 4 ) tl2rtl ( lce ) , and 5 ) tl2rtl ( lh + lce ) .	'Extra'
+we can see that the proposed tl2rtl model outperforms the three variants of our proposed model in all three evaluation measures .	'Incorrect'
+we also observe that the performance of tl2rtl with either direct or indirect supervision is significantly better than that of tl2rtl with either direct or indirect supervision .	'Incorrect'

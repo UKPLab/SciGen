@@ -1,0 +1,5 @@
+we observe that the lstm models perform better than the cnn for both the full and partial datasets	'Incorrect'
+we observe that the lstm the cnn + c - lstm baselines for both the full and partial datasets .	'Incorrect'
+for the cnn full dataset , the best performing model is a combination of the bl + glove and bl + svm models ,	'Extra'
+while for the cnn partial dataset the best performance is achieved by combining the glove and bl models .	'Extra'
+we also observe that combining the bl and glove models results in a significant improvement for the list and list - to - dict models .	'Incorrect'

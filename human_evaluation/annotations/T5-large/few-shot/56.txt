@@ -1,0 +1,4 @@
+< extra_id_0 > all - biomed health and all -	'N/A'
+biomed bio are significantly worse than the previous state - of - the - art models .	'Incorrect'
+these models outperform all biomed and all - biomed models in terms of transfer learning performance .	'Incorrect'
+however , all - biomed health is significantly worse than all - biomed bio , and all - biomed health is significantly worse.	'Incorrect'

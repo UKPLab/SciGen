@@ -1,0 +1,4 @@
+we see that the oracle fever score is much higher than the fever score of . 5289 achieved by using the full document as the evidence set .	'Incorrect'
+using only the title or the first five paragraphs of the document results in a lower score of . 5553 . using the entire article as evidence results in an improvement of . 5736 , but using only the first few paragraphs results in the highest score , . 5844.	'Incorrect'
+the fact that the system is able to achieve this score with just the title of the first paragraph is surprising , as it suggests that it might be possible to use the entire document as evidence to improve fever .	'Hallucinated'
+the system that only uses the title as evidence does not perform as well.	'Incorrect'

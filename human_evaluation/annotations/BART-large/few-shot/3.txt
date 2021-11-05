@@ -1,0 +1,3 @@
+distill and no - distill models perform similarly on the sst2 task .	'Incorrect'
+elmo shows lower performance on a - but - b sentences ( “ but ” and “ negations ” ) compared to the no - disdistill model , indicating that the differences in learning ability are due to different learning rates .	'Incorrect'
+however , on the negation task , elmo performs better than no - project model , showing that the learning rate is still high even under the difficult requirement of distill .	'Entailed'

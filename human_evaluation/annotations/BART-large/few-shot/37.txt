@@ -1,0 +1,3 @@
+table 4 shows the fever scores of the various systems that use ne + film retrieval .	'Hallucinated'
+all use the best performing feature set , and	'Hallucinated'
+their average score is significantly higher than the state - of - the - art on average . "	'Hallucinated'

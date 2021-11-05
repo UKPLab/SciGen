@@ -1,0 +1,2 @@
+For extractive sentence summarization, our method achieves good compression rate
+Our method significantly raises a previous unsupervised baseline on token level F1 score

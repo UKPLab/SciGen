@@ -1,0 +1,3 @@
+with bi ( α = 0 . 1 ), bi matches or out-performs the uniform ensemble. 
+notably, for en2es, where bi (α = 0.5) performed well, taking α=0 . 1 does not harm performance .
+

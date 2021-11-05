@@ -1,0 +1,5 @@
+in this section , we compare the performance of our model with the baseline seq2seq model on both datasets.	'Incorrect'
+for each dataset , we report the percentage of goals achieved by the model and the number of turns for which the model was able to complete the task within the allowed number of allowed turns .	'Hallucinated'
+we can see that our model outperforms the baseline model in all the cases , which indicates that our goal encoder is able to guide the model to achieve the goal more precisely .	'Hallucinated'
+moreover , we can also see that the difference between the goal - only and goal + state - only models is larger than that between the model with access to the state and the goal , which	'Hallucinated'
+implies that the state information is more important than the state - only information for the task .	'Hallucinated'

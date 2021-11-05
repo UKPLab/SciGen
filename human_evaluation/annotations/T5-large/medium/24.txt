@@ -1,0 +1,3 @@
+use the same experimental setup as filippova and altun	'Hallucinated'
+the unsupervised baseline performs better than the supervised baseline , and	'Entailed'
+the compression rate is close to the value reported by the supervised method .	'Incorrect'

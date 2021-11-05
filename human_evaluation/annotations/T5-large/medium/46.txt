@@ -1,0 +1,4 @@
+first observation is that bow , ngram , doc2vec and bag of means all outperform hn - att yang et al .	'Extra'
+it is also interesting to note that the bow - att model performs slightly worse than the hn - att model on the swbd dataset .	'Extra'
+this could be attributed to the fact that the dataset is much smaller than the one used in yang et al .	'Extra'
+therefore , it is more challenging for the hn - att model to learn a suitable model for the dataset .	'Extra'

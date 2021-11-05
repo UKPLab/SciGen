@@ -1,0 +1,2 @@
+uniform ensemble performs better than the all - biomed baseline for de2en , but worse for en2de .	'Incorrect'
+the bi ensemble , which uses = 0 . 5 , performs better than the uniform ensemble for de2en and en2de , but worse for en2de .	'Incorrect'

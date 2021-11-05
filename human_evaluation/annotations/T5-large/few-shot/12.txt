@@ -1,0 +1,4 @@
+< extra_id_0 > socher2011semi , qian2016linguistically and socher2018semi are presented in table 4 .	'Hallucinated'
+the model performs slightly worse than the previous state - of - the - art models in terms of recall compared to the previous state - of - the - art models .	'Incorrect'
+the model outperforms the previous state - of - the - art models in terms of recall .	'Incorrect'
+however , it achieves a marginal improvement over the previous state - of - the - art models .	'Incorrect'

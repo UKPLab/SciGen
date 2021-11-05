@@ -1,0 +1,3 @@
+< extra_id_0 > = 0 . 5 was chosen for submission based on results on available development data .	'Hallucinated'
+= 0 . 5 was chosen for submission due to small deviations due to tokenization differences on official test data .	'Extra'
+bi ( = 0 . 5 ) significantly outperforms uniform ensembles on the wmt19 test data .	'Incorrect'

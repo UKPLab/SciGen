@@ -1,0 +1,3 @@
+direct encoding models outperform our encoding - only and encoding - only models on the te3 and td datasets .	'Incorrect'
+interestingly , the encoding - only model outperforms our encoding - only and encoding - only model on the td and te3 datasets .	'Incorrect'
+this suggests that the encoding - only model is more effective than the encoding - only and encoding - only models for this task .	'Hallucinated'

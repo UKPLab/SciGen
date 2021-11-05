@@ -1,0 +1,3 @@
+< extra_id_0 > avg . ngram + logistic outperforms all the other models with a margin .	'Extra'
+however , it achieves slightly better results than either bigram or doc2vec .	'Extra'
+furthermore , it outperforms both the unsupervised and trained models with a margin .	'Extra'

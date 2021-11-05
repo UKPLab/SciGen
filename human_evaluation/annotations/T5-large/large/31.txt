@@ -1,0 +1,5 @@
+char - cnn and syl - lstm outperform lstm - word by a large margin .	'Incorrect'
+syl - avg and syl - avg - b outperform syl - lstm by a smaller margin .	'Hallucinated'
+syl - concat and syl - sum outperform syl - avg - a and syl - avg - b by a large margin .	'Incorrect'
+syl - concat outperforms syl - cnn - 4 by a large margin , and syl - sum outperforms syl - avg - avg - b by a large margin .	'Incorrect'
+syl - concat and syl - sum outperform syl - avg - b by a large margin .	'Incorrect'

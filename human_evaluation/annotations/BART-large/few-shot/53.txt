@@ -1,0 +1,2 @@
+table 1 compares the performance of our seq2seq model with the best performing state - of - the - art models on the training and test sets .	'Hallucinated'
+our model achieves the best results with a 17 . 41 % achieved rate on average compared to both the best - performing baseline models and the average number of turns taken to achieve the goal .	'Extra'

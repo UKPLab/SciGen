@@ -1,0 +1,2 @@
+< extra_id_0 > wikifiable named entities in a website per domain , with standard error .	'N/A'
+table 2 shows the average percentage of wikifiable named entities in a website per domain , with standard error .	'Hallucinated'

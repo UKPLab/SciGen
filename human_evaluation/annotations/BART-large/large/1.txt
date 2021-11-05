@@ -1,0 +1,3 @@
+our system outperforms the previous state - of - the - art system peng et al .	'Incorrect'
+our system obtains the best performance on the id and ood tagging task , and is competitive on the psd and eds tagging tasks .	'Extra'
+the improvement on the dm and pas tagging tasks is relatively smaller than on the eds and amr tasks , possibly due to the smaller size of the training set for the dm task .	'Extra'

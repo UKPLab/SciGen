@@ -1,0 +1,4 @@
+the results show that the content correctness of the webnlg system is slightly better than that of the e2e system in terms of content correctness , with	'Incorrect'
+the only exception of the grammatical errors in the info . dropped category , which is caused by the content errors that occur in the content of the webpages .	'Incorrect'
+the only exception is in the spelling errors category , where the difference is not statistically significant .	'Incorrect'
+the results for the other categories are similar to those for the content correct system .	'Incorrect'

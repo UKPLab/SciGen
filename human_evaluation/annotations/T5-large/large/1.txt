@@ -1,0 +1,4 @@
+newcitegroschwitz2018distributed newcitelyu2018titov newcitelyu2018titov newcite zhang et al . newcite zhang et al .	'N/A'
+newcitegroschwitz2018distributed used a multi - class classifier to predict named entities and unknown entities , but it failed to predict unknown entities .	'Hallucinated'
+newcitelyu2018titov also used a multi - class classifier to predict unknown entities and unknown entities , but it did not perform well on unknown entities and unknown entities .	'Hallucinated'
+newcite zhang et al . newcite zhang et al . newcite zhang et al . newcite zhang et al . newcite zhang et al .	'Incorrect'

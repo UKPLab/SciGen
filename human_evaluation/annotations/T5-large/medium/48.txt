@@ -1,0 +1,4 @@
+firstly , we observe that the performance of irnet is better than that of syntaxsqlnet .	'Entailed'
+in particular , in the “ easy ” and “ hard ” questions , irnet ( bert ) achieves higher accuracy than the other models .	'Extra'
+in the “ easy ” and “ hard ” questions , irnet ( bert ) achieves higher accuracy than the syntaxsqlnet .	'Extra'
+in the “ hard ” and “ extra ” questions , irnet ( bert ) outperforms the original syntaxsqlnet in all the three questions .	'Extra'

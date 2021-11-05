@@ -1,0 +1,5 @@
+study ( a ) and ( b ) summarize the performance of a model finetuned with a 2 - stage synnet architecture on newsqa .	'Hallucinated'
+in study a , we vary k , the number of mini - batches used for every batch in newsqa , and how much of the paragraph we use for question synthesis .	'Hallucinated'
+in study b , we vary the answer type and how much of the paragraph we use for question synthesis .	'Hallucinated'
+we find that setting k = 0 results in the best performance .	'Extra'
+we also find that using the entire paragraph for question synthesis improves performance over using 2 sentences of the paragraph for question synthesis .	'Extra'

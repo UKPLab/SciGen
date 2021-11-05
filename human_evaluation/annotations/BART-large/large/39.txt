@@ -1,0 +1,3 @@
+the results show that the up - to - now system performs better than the separate system for both in - vocabulary pairs and oov pairs , including oovs .	'Incorrect'
+however , the best performance is obtained for both systems for the in - word pairs and for the oov - pairs .	'Incorrect'
+this indicates that there is a trade - off between the quality of the word embeddings and the size of the training data .	'Hallucinated'

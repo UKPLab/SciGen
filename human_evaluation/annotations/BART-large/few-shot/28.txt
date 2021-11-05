@@ -1,0 +1,4 @@
+uniform sampling outperforms the always sampled approach and the teacher - forcing approach , which relies on word2vec embeddings , in terms of msrp ( acc / f1 ) and sick - r scores .	'Hallucinated'
+the results of both approaches are shown in table 3 .	'Hallucinated'
+regularization improves the results for both datasets , but does not improve the sick scores significantly .	'Incorrect'
+this is mostly due to the lower performance of the automatic - regressive rnn as decoder compared to the naive uniform sampling approach .	'Hallucinated'

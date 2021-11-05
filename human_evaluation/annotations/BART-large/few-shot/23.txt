@@ -1,0 +1,4 @@
+the results of abstractive summarization on gigaword test set with rouge metric are shown in table 1 .	'Hallucinated'
+our approach improves upon the state - of - the - art supervised and unsupervised methods by 1 . 88 points over the performance of previous work .	'Incorrect'
+the improvement over the best previous work is most pronounced on the lead - 75c metric , which	'Incorrect'
+shows the advantage of prefix baselines and attention . further improving performance by high margins	'Hallucinated'

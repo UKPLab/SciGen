@@ -1,0 +1,5 @@
+first question is how much evidence can be retrieved from the claims in the first half of the development set using only single - evidence approaches .	'Extra'
+we report the percentage of claims for which at least some of the evidence can be retrieved .	'Hallucinated'
+we report the percentage of claims for which at least some of the evidence can be retrieved .	'N/A'
+we also report the percentage of claims for which at least some of the evidence can be retrieved from the entire first half of the development set ( i . e . , all single - evidence claims ) .	'Hallucinated'
+we observe that including titles in tfidf improves retrieval performance , but adding in a variety of ways ( e . g . , including movies in tfidf ) hurts performance slightly .	'Extra'

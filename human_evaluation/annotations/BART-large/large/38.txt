@@ -1,0 +1,3 @@
+we see that the overall accuracy is relatively high for the all pairs ( 44 . 7 % ) and the new pairs ( 14 . 3 % ) .	'Hallucinated'
+however , we see a significant drop in the accuracy for the new pairs ,	'Incorrect'
+which is likely due to the fact that they are more difficult to disambiguate compared to the all pairs .	'Hallucinated'

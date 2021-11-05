@@ -1,0 +1,4 @@
+The top tuning data scores for AVG COS SIM (Table 1) show that the Google embeddings with TF*IDF weighting yield the top F score for all three concept input types (.881 - .945)
+The best overall F score (.945) is produced in the setting Both, which provides the most information
+This is true for all four weighting schemes for both GloVe and Google
+FastText consistently yields its top F scores (.840 - .911) in the Label setting, which provides the least information

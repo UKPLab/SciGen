@@ -1,0 +1,1 @@
+can be seen that our model outperforms all the baselines and achieves state - of - the - art performance in terms of both rouge and lexrank .	'Incorrect'

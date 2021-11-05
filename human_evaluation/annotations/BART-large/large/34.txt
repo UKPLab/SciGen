@@ -1,0 +1,3 @@
+we observe that adding titles to premises improves both the support accuracy and the claim accuracy for both esim and transformer on fever . (H-FI) /	'Entailed'
+however , the gain is smaller for the transformer compared to esim .	'Incorrect'
+we hypothesise that this is due to the fact that esim is not able to exploit the additional information contained in the titles , as it does not have access to them.	'Hallucinated'

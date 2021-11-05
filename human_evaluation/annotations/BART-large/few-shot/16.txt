@@ -1,0 +1,4 @@
+table 2 shows the e2e test set results of all systems that we trained on the challenge and development set .	'Hallucinated'
+the best results on the development set belong to our harvardnlp & h . elder model , which outperforms all the other systems except thomson reuters ( np 3 ) in terms of bleu and rouge - l score .	'Incorrect'
+the difference is most prevalent in the domain of word embeddings , where our model ( best on dev . ) is 7 . 6 % better than other systems .	'Hallucinated'
+similarly , the difference between baseline and dev set is 2 . 9 % on average , which indicates that the training set size and the number of iterations are important for the model to achieve the best results .	'Hallucinated'

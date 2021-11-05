@@ -1,0 +1,5 @@
+table 3 presents the results of different model choices for extractive and abstractive rl on the matching dataset in the abstractive and extractive rl benchmarks .	'Hallucinated'
+our temp5 model outperforms all the other models that do not rely on cat - based contextual representation .	'Incorrect'
+moreover , it significantly outperforms the temp10 model in extractive f1 score and cr score as well .	'Incorrect'
+the results are shown in bold in table 3 .	'Hallucinated'
+all the models show that their contextual representation choices have far - reaching effects on the extraction performance of their rl scores .	'Incorrect'

@@ -1,0 +1,3 @@
+the bert classifier achieves the highest accuracy on the supports and refutes cases , outperforming the other classifiers .	'Incorrect'
+the nsmn classifier has the lowest accuracy , which we attribute to its inability to distinguish between the strongly agree and strongly disagree cases .	'Incorrect'
+esim and bert have similar accuracies on the generated pairs , with bert slightly better than the other two .	'Incorrect'

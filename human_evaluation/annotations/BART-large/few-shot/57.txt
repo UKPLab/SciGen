@@ -1,0 +1,3 @@
+uniform ensemble outperforms all - biomed ensembles except for khresmoi ( table 3 ) .	'Incorrect'
+health and bio are relatively consistent across all datasets , with the exception of en2en , while test en2es suffers from low precision .	'Incorrect'
+all - biomedical ensemble outperform uniform ensemble except for on the es2en dataset , which shows the advantage of redundancy removal .	'Incorrect'

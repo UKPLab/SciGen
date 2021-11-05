@@ -1,0 +1,5 @@
+we first compare the predicted chunk sequences from the parse decoder to the ground - truth chunk sequences ( either extracted from a parser in the target language or from a external parser ) in terms of f1 score and exact match with the chunk sequences obtained after parsing the predicted parse .	'Incorrect'
+we also evaluate the quality of the translation produced by the token decoder .	'Hallucinated'
+when the predicted parser diverges from the predicted sequence , it usually translates into a translation that is closer to the target syntax than to the parse output .	'Hallucinated'
+on the other hand , when the decoder closely follows the chunk sequence ( i . e . , translating from a language that has a more similar grammar to the source language ) it tends to make a more accurate prediction .	'Entailed'
+in all cases , the f1 scores obtained when jointly training the two decoders are higher than when they are trained separately .	'Entailed'

@@ -1,0 +1,3 @@
+increasing the number of layers in synst ’ s parse decoder significantly improves the speedup while marginally impacting bleu .	'Incorrect'
+randomly sampling k from { 1 … 6 } during training gives the best performance with minimal impact on speedup .	'Incorrect'
+increasing the maximum chunk size from 2 . 8 × to 4 × the size of the original parse tree yields little improvement over the baseline .	'Incorrect'

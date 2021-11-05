@@ -1,0 +1,5 @@
+the official evaluation results of the submitted runs on the test set .	'Hallucinated'
+from table 3 , we can observe that the sub - task performance of 1 ext . and 2 ext . tasks is significantly better than the performance of the original classifier , indicating that the training set size and type of training data are important for the model to achieve outstanding performance .	'Extra'
+sub - tasks are evaluated using the weighted average of the average number of iterations of training instances across all training instances , and	'Extra'
+are subtracted from the final test set if there are more than 10 iterations .	'Extra'
+the results are presented in table 3 .	'Hallucinated'

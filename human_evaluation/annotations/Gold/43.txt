@@ -1,0 +1,2 @@
+Table 2 reports the results of supervised systems on the same dataset, taken from the two works that use the dataset
+Supervised systems outperform knowledge-based systems, by a small margin in some of the cases.

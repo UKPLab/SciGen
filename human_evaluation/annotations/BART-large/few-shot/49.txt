@@ -1,0 +1,5 @@
+table 3 shows the performance of our approach with respect to exact matching accuracy on the development set of semql .	'Hallucinated'
+our approach outperforms all the other approaches that are learned to generate sql queries .	'Entailed'
+syntaxsqlnet even achieves gains over the best previous state - of - the - art approach , semqlnet , with a boost of 14 . 5 % in accuracy compared to seq2seq .	'Incorrect'
+( table 3 ) the difference is most prevalent in relation to attention layer , which gives a performance gain of 6 . 7 % overall and a performance boost of 3 . 9 % on semql queries .	'Hallucinated'
+attention layer also improves performance by 2 . 8 % overall , which shows that the attention layer is important for the generation of accurate matching .	'Hallucinated'

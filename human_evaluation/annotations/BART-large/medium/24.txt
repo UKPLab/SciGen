@@ -1,0 +1,5 @@
+the supervised results are in the middle section of the table , where filippova and altun ( 2013 ) provide supervised results .	'Hallucinated'
+the unsupervised f & a is an implementation of the supervised baseline .	'Hallucinated'
+the contextual match baseline is the same as used in the previous section , and	'Hallucinated'
+the contextual match is the supervised results obtained by applying the proposed contextual match algorithm.	'Hallucinated'
+the oracle achieves 82 . 1 % token overlapping score and 0 . 39 % compression rate , which outperforms the previous best published results .	'Extra'

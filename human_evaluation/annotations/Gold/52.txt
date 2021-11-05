@@ -1,0 +1,2 @@
+Table 3 shows the performance of baselines against user simulator and human on the two datasets.
+Equation (11)) is also proven effective in delivering more achievement.

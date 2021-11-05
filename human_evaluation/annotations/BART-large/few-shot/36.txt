@@ -1,0 +1,2 @@
+in table 3 we report the percentage of evidence retrieved from the first half of the development set for the tfidf task .	'Hallucinated'
+our system outperforms the previous state - of - the - art on both datasets with a gap of 10 . 2 % on the fever baseline and 3 . 1 % on topix .	'Hallucinated'

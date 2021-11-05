@@ -1,0 +1,3 @@
+as shown in table 4 , increasing the number of layers in synst ’ s parse decoder significantly lowers the speedup while marginally impacting bleu .	'Entailed'
+randomly sampling k from { 1 … 6 } during training boosts bleu significantly with minimal impact on speedup .	'Incorrect'
+we find that k ∈ { 1 , k ∈ 6 } significantly boosts decoding speedup over the simple random sampling baseline without sacrificing too many layers .	'Incorrect'

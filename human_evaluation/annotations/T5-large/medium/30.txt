@@ -1,0 +1,4 @@
+train nmt models with full word and byte pair vocabularies .	'Hallucinated'
+all models are trained with annealing adam and all experiments are averaged over 3 optimizer runs .	'Hallucinated'
+we see that byte pair vocabularies perform similarly to full word vocabularies on all tasks .	'Incorrect'
+in comparison to full word models , bpe vocabularies are able to improve over bpe vocabulary sizes by a large margin .	'Extra'

@@ -1,0 +1,3 @@
+table , we show the average percentage of new texts ( % new texts ) produced by humans and by webnlg models over the entire training set .	'Hallucinated'
+we can see that the proportion of new texts produced by webnlg is lower than that of e2e ,	'Entailed'
+but human texts are more diverse than that of webnlg and the average percentage of unique words is higher than that of other models .	'Extra'

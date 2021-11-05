@@ -1,0 +1,4 @@
+the results are averaged over using each human reference as prediction once .	'Incorrect'
+webnlg results are worse than those of e2e on both bleu and rouge - l .	'Incorrect'
+however , the difference is not statistically significant .	'Incorrect'
+we hypothesize that this is due to the difference in the size of the training data , which makes it difficult to find a strong baseline .	'Hallucinated'

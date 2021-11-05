@@ -1,0 +1,2 @@
+sees a large increase in performance for but and neg sentences , and a smaller increase for but and neg sentences .	'Incorrect'
+we hypothesize that this is because negation carries more information , which is not captured by the “ but ” representations in sst2 , which is a characteristic of sst2 that is difficult to generalize .	'Incorrect'

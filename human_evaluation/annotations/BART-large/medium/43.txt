@@ -1,0 +1,3 @@
+s3 , s07 , s13 , s15 , and s15 .	'N/A'
+in particular , our model outperforms the previous state - of - the - art models across all test sets .	'Incorrect'
+across the board , the performance of our model is competitive with the best previously published results .	'Entailed'

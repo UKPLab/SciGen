@@ -1,0 +1,3 @@
+< extra_id_0 > avgsd of ten runs and single result of best models on the development set .	'N/A'
+own results correspond to avgsd of ten runs and single result of best models on the development set .	'Hallucinated'
+rouge - l outperforms all the other models with a margin of 3 . 8 points .	'Hallucinated'

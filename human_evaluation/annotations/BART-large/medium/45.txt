@@ -1,0 +1,3 @@
+as can be seen , the context - aware models outperform the single - context models by a large margin in terms of bleu score .	'Incorrect'
+the best overall performance is achieved by the pruning model ( ppr , w2w ) , although the performance of the other models is not as good as that of the ppr + w2w model .	'Entailed'
+furthermore , we can see that the best context - only model is still dfs_ppr , which shows that context information is helpful even if the model only has a single context sentence as context .	'Incorrect'

@@ -1,0 +1,5 @@
+as can be seen in the table , in general the performance of our approach is comparable to the one of \ newciteallony and \ newciteneelakantan - etal - 2019 - towards when all the features are used ( i . e . , 0 . 23 and 0 . 25 accuracy for all and half measures ) , but it is significantly lower when half measures are used .	'Hallucinated'
+this shows that the effect of using half measures is negligible in comparison to using all features .	'Hallucinated'
+however , in the case of the legal onion dataset , the accuracy is higher than that of the other two datasets , half measures being half measures and all measures being full measures .	'Hallucinated'
+one possible reason for this is that the average length of the sentences in the illegal onion dataset is much longer than the one in the all - measures dataset ( 6 . 5 sentences vs . 4 sentences ) .	'Hallucinated'
+therefore , the extraction of half measures from a long sentence is more difficult .	'Hallucinated'

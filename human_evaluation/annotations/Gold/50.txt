@@ -1,0 +1,2 @@
+The correlation between the biased phrases in the two dataset splits is not as strong as in the REFUTE label
+Some of the biased bigrams in the training set, such as \"least one\" and \"starred movie\", translate to cues that can help in predictions over the development set.

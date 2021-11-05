@@ -1,0 +1,6 @@
+the pos tags include nouns , verbs , adjectives , adverbs , prepositional phrases , determiners , pronouns , and contingencies .	'Extra'
+for each language pair , we also report the percentage of pos tags that possess a specific morphology ( e . g . , noun , verb , adjective , subject , gerund ) .	'Extra'
+in both languages , the most frequent pos tags are nouns ( 25 % in zh ⇒ en and 1 . 9 % in en ⇇ fr ) , followed by verbs ( 0 . 3 % in both languages ) , determiners ( 3 . 0 % and 5 . 7 % , respectively ) and punctuations ( 2 . 1 % and 2 . 7 % ) .	'Hallucinated'
+the least frequent tags are adjectives ( 1 . 3 % , 4 . 5 % , and 3 . 5 % in the two languages ) , punctuation ( 1 % , 2 . 1 % , and 4 . 7 % ) , and verbs ( 2 % , 3 . 0 % , and 6 . 5 % ) .	'Hallucinated'
+the most frequent tag type in the english - to - chinese translation task is procurbing ( i . e . , gerund ) , which accounts for a significant portion of the cross - lingual pos tags ( 18 . 3 % ) .	'Hallucinated'
+in the case of the japanese - english translation task , this pos tag type accounts for more than a third of all the pos tags , while in the chinese - english task , it accounts for less than one fourth .	'Hallucinated'

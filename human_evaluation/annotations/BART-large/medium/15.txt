@@ -1,0 +1,5 @@
+the s - lstm model achieved state - of - the - art results when trained and tested on the conll - 2009 spanish dataset .	'Entailed'
+it significantly outperformed the previous best model , \ newcitejuan2016neural , by 1 . 8 points in f1 score .	'Incorrect'
+our model also outperformed \ newciteweisser2017semi , a neural semi - supervised model based on a multi - task learning framework , by 2 . 6 points .	'Hallucinated'
+note that we only compare our model with the best published results , which are all based on neural semi neural models .	'Hallucinated'
+we also observed that stacked bilstms performed the best in our experiments , despite the fact that they were not trained on the same data as our model .	'Hallucinated'

@@ -1,0 +1,2 @@
+interestingly , the gap in performance between the train and development sets is smaller for the bigrams with more words in the training set than for the development set .	'Hallucinated'
+this may be due to the fact that the distribution of words in the training set is skewed towards the most frequent words and the model is forced to learn to select more frequent words to predict .	'Hallucinated'

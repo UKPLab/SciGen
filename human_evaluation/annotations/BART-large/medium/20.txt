@@ -1,0 +1,5 @@
+in terms of overall correctness , we can see that the char . version of e2e is slightly better than the word version for most of the content errors .	'Entailed'
+however , there are a few minor spelling mistakes and punctuation errors , which can be handled by simply replacing the entire spelling with the correct spelling in the original text ( as done by \ newcitedblp : journals / corr / abs - neco / webnlg ) .	'Extra'
+as for linguistic errors , content errors are the most common ones , which are caused by repeated ( or added ) information .	'Incorrect'
+the content errors of webnlg are less than 10 % for all information types .	'Incorrect'
+the linguistic errors of content are caused mostly by repetitions of the input text and misspellings .	'Incorrect'

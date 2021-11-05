@@ -1,0 +1,4 @@
+< extra_id_0 > and span f1 results on newsqa test set of a bidaf model finetuned with a 2 - stage synnet .	'Hallucinated'
+in study a , we set k = 0 , and vary the number of mini - batches from squad for every batch in newsqa .	'Hallucinated'
+in study b , we set k = 4 , and vary the answer type and how much of the paragraph we use for question synthesis .	'Hallucinated'
+in study b , we set k = 4 , and vary the answer type and how much of the paragraph we use for	'N/A'

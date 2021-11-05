@@ -1,0 +1,2 @@
+can be seen that using a self - learning decoder performs better than using a teacher - forcing method when using an auto - regressive rnn as a decoder .	'Incorrect'
+using an auto - regressive decoder works better than using a teacher - forcing method when using an auto - regressive rnn as a decoder .	'Incorrect'

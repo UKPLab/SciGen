@@ -1,0 +1,2 @@
+sat outperforms the baseline model with a significant margin in all three datasets , demonstrating the effectiveness of our method .	'Incorrect'
+moreover , sat ( k = 2 ) outperforms the sat ( k = 4 ) model by a large margin on all three datasets , demonstrating the effectiveness of our method .	'Incorrect'

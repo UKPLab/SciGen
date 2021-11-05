@@ -1,0 +1,3 @@
+can clearly see that using pre - trained word embeddings ( glove , pseudoembeddings ) leads to better performance than using the original word embeddings ( adagrad ) , except for the combination of tf and idf .	'Incorrect'
+using adagrad embeddings again leads to better performance than using the original word embeddings .	'Incorrect'
+however , the combination of tf and idf seems to perform worse than using either one alone .	'Incorrect'

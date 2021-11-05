@@ -1,0 +1,2 @@
+table 3 shows the percentage of pos tags for each type and its average number of tokens for each word type .	'Hallucinated'
+our system outperforms all the state - of - the - art systems on all metrics except for fertility , indicating the performance reach the upper boundary of its performance .	'Extra'

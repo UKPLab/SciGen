@@ -1,0 +1,4 @@
+This projection is applied to the second model embeddings of the 47 locations, which are subject to armed conflicts in the year 2001 (38 after skipping pairs with out-of-vocabulary elements)
+The resulting performance reflects how close the predicted vectors are to the actual armed groups active in this or that location
+Out of 38 pairs from 2001, 31 were already present in the previous data set (ongoing conflicts)
+However, even for the new conflicts, the projection performance is encouraging

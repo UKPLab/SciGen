@@ -1,0 +1,5 @@
+from this table , we can see that the accuracy of different models on the hard level is higher than that of the easy level ( e . g . , 70 . 1 % for syntaxsqlnet , 58 . 7 % for irnet and 49 . 2 % for bert ) ,	'Extra'
+while the accuracy on the medium and hard levels is lower ( 16 . 3 % and 19 . 1 % , respectively ) .	'Extra'
+this indicates that the problem of out - of - distribution sql models is more severe when the training set is hard.	'Extra'
+as a result , the exact matching accuracy of all the models is lower than 50 % .	'Extra'
+however , irnet ( bert ) is still the best one among all the compared models .	'Entailed'

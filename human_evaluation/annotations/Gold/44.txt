@@ -1,0 +1,5 @@
+The key factor is the use of sense frequencies
+Systems that do not use sense frequencies(those with a nf subscript) suffer a loss between 7 and 8 percentage points in F1
+Extending the context is mildly effective
+Regarding the algorithm,  the best method is ppr w2w.
+The next best method is the subgraph approach (dfs) and ppr.

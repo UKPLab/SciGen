@@ -1,0 +1,3 @@
+< extra_id_0 > gigaword test set using rouge metric .	'Hallucinated'
+our model achieves the best rouge score among all the unsupervised methods and state - of - the - art supervised methods .	'Incorrect'
+our model outperforms all the supervised methods by a significant margin .	'Incorrect'

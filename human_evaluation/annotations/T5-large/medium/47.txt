@@ -1,0 +1,4 @@
+show that our irnet achieves the best performance on both development and test set .	'Entailed'
+it outperforms other syntax - based models including seq2seq and sqlnet by a large margin .	'Entailed'
+it also outperforms syntaxsqlnet ( augment ) by a large margin .	'Entailed'
+this further demonstrates the effectiveness of irnet .	'Entailed'

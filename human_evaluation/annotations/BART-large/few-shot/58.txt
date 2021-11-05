@@ -1,0 +1,3 @@
+in table 4 we report bleu scores for all models used in english - german language pair submissions .	'Hallucinated'
+our uniform ensemble outperforms the all - biomed ensemble and the uniform ensemble variant of khresmoi et al . ( table 4 ) .	'Incorrect'
+bi ensemble ( with α = 0 . 5 ) shows a significant performance drop compared to uniform ensemble ( p < 0 . 01 ) on all but one of the test cases , confirming the competitiveness of the uniform ensembling .	'Incorrect'

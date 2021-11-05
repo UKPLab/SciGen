@@ -1,0 +1,2 @@
+can be seen that the s - lstm outperforms the baselines by a large margin and is faster to train and test than the transformer and the other stacked architectures .	'Entailed'
+the s - lstm also outperforms the transformer and the other stacked architectures by a large margin and is faster to train and test than the other architectures .	'Entailed'

@@ -1,0 +1,2 @@
+We compare the performance of our model (Table 2) with traditional Bag of Words (BoW), TF-IDF, and n-grams features based classifiers. 
+We also compare against averaged Skip-Gram (Mikolov et al., 2013), Doc2Vec (Le and Mikolov, 2014), CNN (Kim, 2014), Hierarchical Attention (HN-ATT) (Yang et al., 2016) and hierarchical network (HN) models.

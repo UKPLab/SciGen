@@ -1,0 +1,2 @@
+On the E2E development set, both model variants significantly outperform human texts by far with respect to both automatic evaluation measures.
+While the human BLEU score is significantly higher than those of both systems on the WebNLG development set, there is no statistical difference between human and system ROUGE-L scores

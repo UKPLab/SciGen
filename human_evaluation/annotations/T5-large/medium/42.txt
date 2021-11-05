@@ -1,0 +1,3 @@
+ebay has the fewest wikifiable entities , at 38 . 6 % .	'Extra'
+the illegal onion has a slightly higher percentage of wikifiable entities , at 50 . 82 . 31 , and the legal onion has a slightly higher percentage of wikifiable entities at 50 . 82 . 31 .	'Incorrect'
+this highlights the difference between these two types of domains .	'Hallucinated'

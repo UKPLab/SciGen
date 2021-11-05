@@ -1,0 +1,2 @@
+can see that the overall correctness rate of the webnlg character - based encoder is higher than that of the e2e word - based encoder .	'Incorrect'
+this indicates that the webnlg model can generate text that is free of grammatical and spelling errors , as well as be free of grammatical and spelling mistakes .	'Hallucinated'

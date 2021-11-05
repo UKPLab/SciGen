@@ -1,0 +1,6 @@
+table 2 presents the f1 results for supervised systems on the raganato et al . ( 2017a ) dataset .	'Hallucinated'
+all supervised systems outperform the unsupervised systems except for iacobacci et al . , whose system achieves 73 . 8 % f1 score .	'Incorrect'
+the best results are reported in table 2 , yuan et al . ( 2016 ) and ( 2017b ) obtain 73 . 9 % and 73 . 7 % f2 scores , respectively , on the s2 and s13 datasets , respectively .	'Hallucinated'
+raganato and co . ( 2016 ) obtain 69 . 3 % and 69 . 8 % , respectively , f1 scores better than the previous state - of - the - art supervised systems .	'Hallucinated'
+in comparison , zhong and ng ( 2010 ) and melamud ( 2014 ) obtain 71 . 2 % and 71 . 9 % , respectively f1 and s15 scores respectively ,	'Hallucinated'
+which shows that supervised systems are comparable in performance to the supervised systems without sacrificing performance .	'Hallucinated'

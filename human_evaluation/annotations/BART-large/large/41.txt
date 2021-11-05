@@ -1,0 +1,4 @@
+for the second experiment , we compare the performance of the proposed method with the state - of - the - art clustering algorithm on the dataset containing only one slice of each legal and illegal slice of a particular flavor .	'Extra'
+the clustering results on this dataset are shown in table label : fig : legal vs . illegal vs . all .	'Hallucinated'
+as can be seen from the table , the clustering result on the illegal slice is better than the one on the all - onion slice , but worse than that on the legitimate slice .	'Incorrect'
+the reason for this is that the illegal one is more difficult to cluster than the normal one , and the algorithm is not able to distinguish it from the other slices in the dataset .	'Hallucinated'

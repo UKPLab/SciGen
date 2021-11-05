@@ -1,0 +1,5 @@
+the results are presented in table 1 .	'Hallucinated'
+all the labels used for this analysis show significant performance drop on the tf and glove datasets .	'Incorrect'
+the difference is most prevalent for the labels labeled with " tf " and " glove " tags .	'Hallucinated'
+both tags yield significantly lower f - measure scores compared to those without .	'Incorrect'
+in addition , the difference between the tn and fms drops significantly for both groups , both for the original and the derivational text .	'Hallucinated'

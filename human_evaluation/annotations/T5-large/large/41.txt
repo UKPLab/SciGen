@@ -1,0 +1,3 @@
+can see that for the legal onion dataset , the classifier performs better with half of the labels being available .	'Extra'
+this can be explained by the fact that there are more labels on the first half of the image than on the second half .	'Extra'
+in the case of the ebay dataset , the classifier performs better with all labels on the first half of the image than it does with the second half .	'Extra'

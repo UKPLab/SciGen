@@ -1,0 +1,5 @@
+IRNet clearly outperforms all the baselines by a substantial margin.
+It obtains 27.0% absolute improvement over SyntaxSQL
+It also obtains 19.5% absolute improvement over SyntaxSQLNet(augment) that performs large-scale data augmentation
+When incorporating BERT, the performance of both SyntaxSQLNet and IRNet is substantially improved
+The accuracy gap between SyntaxSQLNet and IRNet on both the development set and the test set is widened

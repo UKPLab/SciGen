@@ -1,0 +1,6 @@
+in this section , we compare the seq2seq model with the human simulator and the goal - oriented dialogue agent .	'Extra'
+we observe that the goal oriented dialogue agent can achieve more than 70 % success rate when compared to the human agent .	'Extra'
+however , the number of action taken by the agent is lower than that achieved by humans .	'Extra'
+we conjecture that this is because humans tend to use the human language to encourage the agent to move faster and thus more efficiently search for the goal .	'Extra'
+on the other hand , our model outperforms humans in terms of goal success rate .	'Extra'
+we attribute this to the fact that our agent is able to exploit the multi - granularity information provided by the dialog state tracking module .	'Extra'

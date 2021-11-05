@@ -1,0 +1,10 @@
+We evaluate two configurations of the parse decoder
+In one configuration, the parse decoder is trained separately from the token decoder
+In the other configuration, both decoders are trained jointly
+We observe that joint training boosts the chunk F1 from 65.4 to 69.6
+In both cases, the F1 scores are relatively low, which matches our intuition as most source sentences can be translated into multiple target syntactic forms
+To measure how often the token decoder follows the predicted chunk sequence, we parse the generated translation and compute the F1 between the resulting chunk sequence and the parse decoder's prediction
+Strong results of 89.9 F1 and 43.1% exact match indicate that the token decoder is heavily reliant on the generated chunk sequences.
+The resulting F1 is indeed almost 10 points higher indicating that the token decoder does have the ability to correct mistakes.
+We consider the effect of randomly sampling the max chunk size k during training.
+This provides a considerable boost to BLEU with a minimal impact to speedup.

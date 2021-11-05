@@ -1,0 +1,3 @@
+table 3 presents the results for es2en , khresmoi and en2es on the health and bio datasets .	'Hallucinated'
+all - biomed models outperform their disjoint counterparts on all three datasets except for bio .	'Incorrect'
+bio is significantly better than health , both on both datasets in terms of transfer learning schedule and overall performance , while health is slightly better than bio on all datasets but still performing substantially worse than en2en .	'Incorrect'

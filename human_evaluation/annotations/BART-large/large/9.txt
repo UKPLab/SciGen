@@ -1,0 +1,4 @@
+we can see that the sat model with k = 2 or k = 4 outperforms the baseline model with b = 1 and b = 4 by a large margin , which demonstrates the effectiveness of the proposed sat method .	'Incorrect'
+moreover , the performance of our model increases as the number of clusters k increases .	'Hallucinated'
+the reason is that as k increases , the size of the clusters becomes larger , which results in a higher probability of interference from the source to the target sequence , leading to a decrease in the model ’ s performance .	'Hallucinated'
+however , the speedup of our method is still higher than that of the baseline , which shows that our method can still maintain the quality of the source - target sequence .	'Hallucinated'

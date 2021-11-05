@@ -1,0 +1,3 @@
+we can see that the syl - cnn and syl - sum models perform better than the original char - cnn model in all languages except for czech ( czech ) and russian ( ru ) , where the difference is not statistically significant .	'Incorrect'
+the syl - concat model performs the worst in almost all cases , which is consistent with the results reported in the original papers .	'Incorrect'
+the main reason for the poor performance is that the data in czech and russian are much smaller than those in the other languages , which makes it more difficult for the network to learn a good representation for them .	'Hallucinated'

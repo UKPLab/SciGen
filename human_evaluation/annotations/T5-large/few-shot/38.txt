@@ -1,0 +1,5 @@
+< extra_id_0 > from 2000 2001 .	'N/A'
+projection accuracy for the isolated example experiment mapping from 2000 2001 .	'N/A'
+projection accuracy for the isolated example experiment mapping from 2000 2001 .	'N/A'
+projection accuracy for the isolated example experiment mapping from 2000 2001 .	'N/A'
+projection accuracy for the isolated example experiment mapping from 2000 2001 is shown in table 2 .	'Hallucinated'

@@ -1,0 +1,2 @@
+< extra_id_0 > r and trec . sick - r and msrp achieve very similar performance .	'Hallucinated'
+however , our proposed auto - regressive rnn outperforms the state - of - the - art sick - r and msrp models by a margin .	'Incorrect'

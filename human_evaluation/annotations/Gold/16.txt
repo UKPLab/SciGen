@@ -1,0 +1,2 @@
+On the E2E test set, our single best word- and character-based models reach comparable results to the best challenge submissions.
+The word-based models achieve significantly higher BLEU and ROUGE-L scores than the character-based models.

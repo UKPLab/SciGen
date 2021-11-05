@@ -1,0 +1,6 @@
+the mnli ( m ) and snli ( s ) datasets are taken from the penn treebank ( ptb ) and the multinli ( mnli ) datasets , respectively .	'Hallucinated'
+for the mednli dataset , we use the original bert model and the biobert model that was pre - trained on the mednli training set .	'Hallucinated'
+the snli dataset is taken from wmt ’ 14 nlpcc ’ s shared task , which is a subset of the snli corpus .	'Hallucinated'
+we follow the same procedure as in the mnli datasets , except that we do not fine - tune the word embeddings of the bert models , as we found that fine - tuning bert on the original mnli dataset did not improve the performance of the model .	'Hallucinated'
+we also follow wmt ’ 14 snli and mnli with the same hyperparameter settings as in their original papers .	'Hallucinated'
+for all of the tasks , we follow the settings in the original papers and follow the procedure of lin et al .	'Hallucinated'

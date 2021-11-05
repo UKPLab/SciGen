@@ -1,0 +1,4 @@
+the results of experiment 1 are shown in table 2 .	'Hallucinated'
+all models show improvements relative to the ukb baseline except for those using mfs embeddings .	'Hallucinated'
+the mfs model outperforms ukb in terms of s2 and s13 scores , while	'Hallucinated'
+it performs slightly better than ukb on s07 , s13 and s15 .	'Hallucinated'

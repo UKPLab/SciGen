@@ -1,0 +1,4 @@
+We also evaluate the SynNet on the NewsQAto-SQuAD direction
+We directly apply the best setting from the other direction and report the result
+The SynNet improves over the baseline by 1.6% in EM and 0.7% in F1.
+Limited by space, we leave out ablation studies in this direction

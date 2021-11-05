@@ -1,0 +1,3 @@
+we observe that tl2rtl ( lτ ) achieves the best f - measure for both the indirect and direct cases , with lτce slightly outperforming lτh and l ∗ for the te3 and td datasets , but not for the indirect case .	'Incorrect'
+the difference in performance between lτ and lτc is smaller for the td dataset , which	'Incorrect'
+we hypothesize is due to the fact that there are fewer direct cases in this dataset .	'Hallucinated'

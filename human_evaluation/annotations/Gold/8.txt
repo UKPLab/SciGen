@@ -1,0 +1,14 @@
+We use two pre-trained deep models: a CNN and an LSTM as baselines (BL) to extract the initial list of word hypotheses.
+We experimented extracting kbest hypotheses for k = 1 . . . 10.
+Table 1 presents four different accuracy metrics for this case.
+Full columns correspond to the accuracy on the whole dataset.
+Dict columns correspond to the accuracy over the cases where the target word is among the 90K words of the CNN dictionary (which correspond to 43.3% of the whole dataset. 
+List columns report the accuracy over the cases where the right word was among the k-best produced by the baseline.
+The final column is the MRR Mean Reciprocal Rank (MRR)
+We compare the results of our encoder with several state of-the-art sentence encoders, tuned or trained on the same dataset.
+Table 1 are trained in the same conditions that our model with glove initialization with dual-channel overlapping non-static pre-trained embedding on the same dataset.
+Our model FDCLSTM without attention achieves a better result in the case of the second baseline LSTM that full of false-positives and short words.
+We also compare our result with current state-of-the-art word embeddings trained on a large general text using glove and fasttext.
+The word model used only object and place information, and ignored the caption.
+Our proposed models achieve better performance than our TWE previous model that trained a word embedding from scratch on the same task.
+The introduction of this unigram lexicon produces the best results.

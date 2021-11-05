@@ -1,0 +1,4 @@
+table 3 presents the results on the eds test set for english and german.	'Hallucinated'
+Our model outperforms all the previous state - of - the - art models on all metrics except for basic smatch f .	'Incorrect'
+the difference is most prevalent in the psd test set	'Incorrect'
+our psd model obtains the best overall performance .	'Hallucinated'

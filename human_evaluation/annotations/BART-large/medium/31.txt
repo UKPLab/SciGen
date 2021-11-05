@@ -1,0 +1,5 @@
+syl - lstm , syl - cnn , and syl - avg perform better than the lstm - word models ,	'Extra'
+however , the performance of the average and average - based models is slightly worse than that of the single character - level models .	'Incorrect'
+this may be due to the fact that the average representations are trained on the entire training set rather than just a subset of the positive and negative examples , which may introduce some noise into the resulting representations .	'Hallucinated'
+on the other hand , the syl - sum model achieves the best performance on the test set , outperforming all the other models by a large margin .	'Incorrect'
+syl - combination and sum - a further improves the performance by 0 . 6 % and 0 . 8 % respectively .	'Incorrect'

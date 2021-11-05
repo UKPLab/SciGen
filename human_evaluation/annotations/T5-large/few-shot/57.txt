@@ -1,0 +1,5 @@
+< extra_id_0 > all - biomed bio < extra_id_1 > es2en	'N/A'
+< extra_id_2 > es2en and en2es show similar performance to each other , but on a slightly larger scale .	'Incorrect'
+the results are shown in table 4 .	'Hallucinated'
+the results for all biomed and biomed subsets are slightly worse than those for all other subsets .	'Incorrect'
+however , for all other subsets , the performance is similar across all subsets , with the exception of health , where performance is slightly worse.	'Incorrect'

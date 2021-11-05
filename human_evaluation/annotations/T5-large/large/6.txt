@@ -1,0 +1,5 @@
+also shows the precision , recall and f - score for each type of concept input .	'Hallucinated'
+we can see that pre - trained word embeddings ( glove , pseudoembeddings ) outperform the idf embeddings by a large margin , especially for the “ both ” type of concept input .	'Incorrect'
+this shows the usefulness of pre - trained word embeddings in this task of concept identification .	'Hallucinated'
+can see that our method outperforms the previous state - of - the - art by a large margin ( p0 . 05 ) .	'N/A'
+moreover , our method outperforms the previous state - of - the - art by a large margin ( p0 . 005 ) , which demonstrates the effectiveness of our method .	'Incorrect'

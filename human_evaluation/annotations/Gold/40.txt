@@ -1,0 +1,3 @@
+The self-distance of the eBay, Legal Onion and Illegal Onion corpora lies between 0.40 to 0.45 by the Jensen-Shannon divergence.
+But the distance between each pair is 0.60 to 0.65, with the three approximately forming an equilateral triangle in the space of word distributions
+Similar results are obtained using Variational distance, and are omitted for brevity.

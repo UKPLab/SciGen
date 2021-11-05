@@ -1,0 +1,2 @@
+Limiting evidence in this way when only five statements are retrieved pushes FEVER score down very little, to .5550 from .5617 on the development set
+When the system reviews the extra evidence, FEVER score goes up to .5844 on the development set.

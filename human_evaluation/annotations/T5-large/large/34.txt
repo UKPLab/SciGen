@@ -1,0 +1,5 @@
+used to measure the effect of adding titles to premise paragraphs .	'Hallucinated'
+we trained both esim and transformer on the fever training set and tested them on the fever test set .	'Extra'
+we found that for both esim and transformer the addition of titles to premise paragraphs improves support accuracy and claim kappa for both training and test sets .	'Extra'
+however , for esim the addition of titles to premise paragraphs does not improve claim kappa for either training or test set .	'Incorrect'
+this is because adding titles to premise paragraphs makes the model more sensitive to the sparsity of premise paragraphs and makes the model more sensitive to the sparsity of premise sentences .	'Hallucinated'

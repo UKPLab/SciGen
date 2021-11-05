@@ -1,0 +1,2 @@
+interestingly , the bilstm model outperforms both the slstm and bilstm models on all datasets except for kitchen , where bilstm is slightly better .	'Incorrect'
+we believe that this is due to the small size of the datasets ( i . e . , only 4 datasets ) and the fact that the training time is not directly proportional to the size of the datasets ( i . e . , datasets with only 4 classes ) .	'Incorrect'

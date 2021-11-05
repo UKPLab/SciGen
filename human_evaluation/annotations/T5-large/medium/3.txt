@@ -1,0 +1,3 @@
+see that both no - project and distillation models perform similarly , with elmo slightly outperforming the distillation model .	'Extra'
+however , both models outperform the non - distillation model for but and negations , and	'Extra'
+both outperform the distillation model for but and neg .	'Extra'

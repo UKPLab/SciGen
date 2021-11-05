@@ -1,0 +1,4 @@
+uniform ensembling outperforms bi with varying smoothing factor on the wmt19 test data .	'Incorrect'
+bi significantly outperforms uniform ensembles and de2en , showing that tokenization differences do not impact model performance .	'Incorrect'
+we find that the uniform ensemble performs better than the de2de ensemble under all three smoothing factors ,	'Incorrect'
+indicating that the advantage of tokenization is more than offset by the cost of loss of performance in uniform ensemble .	'Hallucinated'

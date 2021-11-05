@@ -1,0 +1,3 @@
+lead - 75c model achieves a rouge score of 23 . 69 on the test set , achieving state - of - the - art unsupervised performance of 21 . 30 .	'Incorrect'
+in the second section , we compare with recent unsupervised methods and our own implementation of a seq - to - seq model with attention .	'Extra'
+our implementation of a seq - to - seq model with attention achieves a rouge score of 24 . 97 on the test set , achieving a new state - of - the - art performance of 24 . 97 .	'Extra'

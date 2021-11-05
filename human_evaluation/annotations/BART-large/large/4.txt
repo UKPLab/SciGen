@@ -1,0 +1,2 @@
+for the sst2 dataset , elmo outperforms the baseline model on the majority of the sentences ( 87 . 56 % vs . 81 . 32 % ) and on the sentences which got the opposite labels ( 84 . 54 % vs 87 . 55 % ) .	'Extra'
+the elmo model outperforms both the baseline and the no - distill , no - project model on non - neutral sentences , with 93 . 14 % versus 91 . 31 % accuracy for elmo .	'Entailed'

@@ -1,0 +1,4 @@
+we present the results of manual evaluation of the generated texts for 10 random test instances of a word - based model trained with synthetic training data from two templates .	'Extra'
+the results are shown in table 7 .	'Hallucinated'
+our model obtains the best performance with an avg . c @ n @ n of 1 . 2 and 3 . 3 on the test set ,	'Extra'
+which shows that the reranker helps the model to select the most interesting and interesting correct hypotheses .	'Entailed'

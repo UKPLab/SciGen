@@ -1,0 +1,3 @@
+compare our method against several state - of - the - art methods for sentence embeddings on the conll dataset .	'Hallucinated'
+we report results for all sentences in all five subsets and average over all subsets .	'Hallucinated'
+we report results for the sentence embeddings trained on the conll training set ( ‘ all ’ ) , the sentence embeddings trained on the conll training set ( ‘ s2 ’ ) , the sentence embeddings trained on the different subsets of the training set ( ‘ s3 ’ , ‘ s07 ’ , ‘ s13 ’ ) and the sentence embeddings trained on all the five subsets .	'Extra'

@@ -1,0 +1,3 @@
+All models learned to generalize from the training data to produce correct texts for novel inputs consisting of unseen combinations of input attributes.
+While the top two hypotheses are equally distributed between adhering to Template 1 and Template 2, more than 5% among the lower-ranked hypotheses constitute a template combination
+The final row of Table 7 shows that this simple reranker successfully places correct hypotheses higher up in the ranking, improving the practical usability of the generation model by now offering almost three correct variants for each input among the top five hypotheses on average

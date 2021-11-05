@@ -1,0 +1,6 @@
+the results of e2e word embeddings for the webnlg and webnlg char . are shown in table 1 .	'Hallucinated'
+the first group shows the overall performance of both systems on the content and linguistic errors .	'Hallucinated'
+overall , both systems show lower performance on the linguistic errors and overall correctness compared to the previous state - of - the - art systems .	'Incorrect'
+however , the improvement on the overall correctness metric is much larger than that on the errors metric , showing that both systems are more sensitive to grammatical errors and spelling mistakes .	'Incorrect'
+we observe that the errors are mostly caused by repetition errors , as shown in the second group .	'Incorrect'
+however , there are some exceptions specific to linguistic errors which show that the system is able to pick out the most problematic ones and correct these errors relatively quickly .	'Incorrect'

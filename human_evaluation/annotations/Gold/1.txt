@@ -1,0 +1,8 @@
+Our results are competitive across the board 
+Our results set a new state of the art for EDS Smatch scores among EDS parsers which are not trained on gold syntax information
+Our EDM score on EDS is lower
+Use of BERT embeddings is highly effective across the board
+Set a new state of the art (without gold syntax) on all graph-banks except AMR 2017
+The improvement is particularly pronounced in the out-of-domain evaluations, illustrating BERT's ability to transfer across domains
+With GloVe, multi-task learning led to substantial improvements
+With BERT the improvements are smaller but still noticeable.

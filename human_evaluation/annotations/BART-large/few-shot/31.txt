@@ -1,0 +1,5 @@
+the results of pre - selection are shown in table 1 .	'Hallucinated'
+our model obtains the best performance with a ppl score of 88 . 3 % on the test set containing ≈ 5m parameters .	'Hallucinated'
+compared to the previous state - of - the - art models , the syl - lstm classification system outperforms all the other models that do not use lstm word embeddings .	'Incorrect'
+the difference is most prevalent in the domain of perplexity , where our model char - cnn shows the worst performance .	'Incorrect'
+we conjecture that this is due to the extremely small test set size .	'Extra'

@@ -1,0 +1,5 @@
+Our method outperforms commonly used prefix baselines for this task which take the first 75 characters or 8 words of the source as a summary.
+Our system achieves comparable results to Wang and Lee (2018) a system based on both GANs and reinforcement training.
+We list scores of the state-of-the-art supervised model, an attention based seq-to-seq model of our own implementation
+We also list the oracle scores of our method obtained by choosing the best summary among all finished hypothesis from beam search.
+The oracle scores are much higher, indicating that our unsupervised method does allow summaries of better quality.

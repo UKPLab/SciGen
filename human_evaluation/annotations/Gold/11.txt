@@ -1,0 +1,11 @@
+BiLSTM gives significantly better accuracies compared to uni-directional LSTM2, with the training time per epoch growing from 67 seconds to 106 seconds.
+Stacking 2 layers of BiLSTM gives further improvements to development results, with a larger time of 207 seconds.
+3 layers of stacked BiLSTM does not further improve the results.
+In contrast, S-LSTM gives a development result of 82.64%, which is significantly better compared to 2-layer stacked BiLSTM, with a smaller number of model parameters and a shorter time of 65 seconds.
+We additionally make comparisons with stacked CNNs and hierarchical attention (the CNN and Transformer rows)
+CNN is the most efficient among all models compared, with the smallest model size
+On the other hand, a 3-layer stacked CNN gives an accuracy of 81.46%, which is also the lowest compared with BiLSTM, hierarchical attention and S-LSTM
+The best performance of hierarchical attention is between single-layer and two-layer BiLSTMs in terms of both accuracy and efficiency
+S-LSTM gives significantly better accuracies compared with both CNN and hierarchical attention
+Table 3 additionally shows the results of BiLSTM and S-LSTM when external attention is used
+Attention leads to improved accuracies for both BiLSTM and S-LSTM in classification, with S-LSTM still outperforming BiLSTM significantly

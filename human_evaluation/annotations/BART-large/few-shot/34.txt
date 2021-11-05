@@ -1,0 +1,3 @@
+table 1 shows the effect of adding titles to premises .	'Hallucinated'
+esim significantly improves the support accuracy for claims on the fever test set .	'Incorrect'
+the difference in support accuracy between esim and transformer is less pronounced for fever title one ,	'Incorrect'

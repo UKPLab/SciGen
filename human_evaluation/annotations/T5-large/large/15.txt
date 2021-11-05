@@ -1,0 +1,2 @@
+report the performance of a bilstm and a transformer on the test set.	'Hallucinated'
+our model achieves a state - of - the - art result with a f1 score of 91 . 93 on the test set and a significantly faster inference time than the other models .	'Entailed'

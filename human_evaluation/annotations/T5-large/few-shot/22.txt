@@ -1,0 +1,4 @@
+the results for webnlg < extra_id_0 > a word - based model trained with synthetic training data from two templates .	'Hallucinated'
+the average number of correctly generated texts for 10 random test instances is shown in table 7 .	'Hallucinated'
+the model performs well in terms of content and language , with respect to the top n hypotheses .	'Incorrect'
+we observe that the model performs well in terms of both content and language , with the exception of reranking .	'Incorrect'

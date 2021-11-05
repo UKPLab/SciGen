@@ -1,0 +1,2 @@
+Inter-annotator agreement is higher for higher thresholds (less ambiguous sentences)
+Table 3 shows that ELMo's performance gains in Table 2 extends across all thresholds

@@ -1,0 +1,4 @@
+first considers the isolated example experiment mapping from 2000 2001 .	'Hallucinated'
+we take the top - 3 predictions from the original dataset , the top - 5 predictions from the new dataset , and the top - 10 predictions from the original dataset .	'Extra'
+note that the top - 10 predictions from the new dataset are worse than the top - 5 predictions from the all dataset .	'Extra'
+this shows that the quality of the all datasets is lower than the quality of the new datasets , which suggests that there is still room for improvement .	'Incorrect'

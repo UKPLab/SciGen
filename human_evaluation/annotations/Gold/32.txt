@@ -1,0 +1,3 @@
+We replaced the LSTM by a Variational RHN
+This resulted in a significant reduction of perplexities on PTB for both Char-CNN and Syl-Concat 
+Increasing dLM from 439 to 650 did result in better performance for Syl-Concat

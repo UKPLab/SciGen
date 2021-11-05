@@ -1,0 +1,5 @@
+the results of bert dev and biobert test set are shown in table 1 .	'Hallucinated'
+the smaller performance gap between snli ( s ) and mednli ( m )	'Incorrect'
+indicates that the performance gain comes from better training on snli datasets .	'Hallucinated'
+moreover , the difference is less pronounced when the training set is expanded with the mednli coreference network ,	'Hallucinated'
+showing that the translation quality obtained during the expansion process is comparable to that during the design phase .	'Hallucinated'

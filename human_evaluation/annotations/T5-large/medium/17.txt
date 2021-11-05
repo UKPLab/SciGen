@@ -1,0 +1,6 @@
+first experiment on the webnlg dataset .	'N/A'
+we compare to the state - of - the - art results on the webnlg test set in terms of bleu and rouge - l .	'Extra'
+for the baseline , we used the single best model trained on the development set .	'Extra'
+for the two new challenges , tilburg - smt and upf - forge , we used the best model trained on the test set .	'Hallucinated'
+for the new challenge , we used the best model trained on the development set and averaged the results over ten runs .	'Hallucinated'
+we observe that both the word - based model and the character - based model outperform the baseline and the upf - forge system .	'Hallucinated'

@@ -1,0 +1,3 @@
+using bpe vocabularys is consistently better than using the full word vocabulary on all datasets except for the iwslt english - french .	'Incorrect'
+we also find that byte pair based vocabularies perform better than word based vocabularies on all datasets except for the wmt english - french .	'Incorrect'
+this suggests that byte pair based encoding is as effective as word based encoding in a low resource setting .	'Entailed'

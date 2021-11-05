@@ -1,0 +1,4 @@
+can be clearly seen that the bilstm model significantly outperforms the slstm model in all the datasets .	'Incorrect'
+especially in the case of videos , the bilstm model reduces the training time by more than 50 % compared to the slstm model .	'Incorrect'
+especially in the case of audio and video , the bilstm model reduces the training time by more than 50 % compared to the slstm model .	'Incorrect'
+in the case of still images and videos , the bilstm model reduces the training time by more than 50 % compared to the slstm model .	'Incorrect'

@@ -1,0 +1,6 @@
+There are at least 6.6% and up to 14.4% absolute improvements on accuracy of exact matching on the development set
+When SyntaxSQLNet is learned to generate SemQL queries instead of SQL queries, it registers 8.6% absolute improvement and even outperforms SyntaxSQLNet(augment) which performs large-scale data augmentation.
+Our base model significantly outperforms SyntaxSQLNet, SyntaxSQLNet( augment) and SyntaxSQLNet(BERT)
+Performing schema linking ('+SL') brings about 8.5% and 6.4% absolute improvement on IRNet and IRNet(BERT).
+The F1 score on the WHERE clause increases by 12.5% when IRNet performs schema linking. 
+The number of examples suffering from this problem decreases by 70%, when using the memory augmented pointer network.

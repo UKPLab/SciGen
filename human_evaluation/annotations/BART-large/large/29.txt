@@ -1,0 +1,4 @@
+for the sentence encoder and the decoder , we experimented with both cnn and rnn with different dimensionality of the embeddings .	'Entailed'
+we found that the best results are achieved with a cnn encoder with 600 - 1200 - 300 dimensions and a cnn decoder with 20 dimensions .	'Hallucinated'
+for the rnn encoder , the best performance is achieved by using a 2x2 lstm as the encoder .	'Extra'
+this is consistent with our findings in the previous section where we found that increasing the dimension of the word embedding matrix improves the performance of rnns .	'Extra'

@@ -1,0 +1,4 @@
+results are shown in table 1	'Hallucinated'
+the best performing approach is irnet , which achieves 62 . 7 % accuracy on the standard seq2seq test set compared to the previous state - of - the - art approach , syntaxsqlnet ( 25 . 8 % vs . 25 . 7 % ) and bert ( 25 . 0 % ) with an absolute improvement of 2 . 2 % over the best previous approach .	'Incorrect'
+next , we compare our approach with the approaches described in section 1 . 2 .	'Hallucinated'
+the results are presented in table 1 , where bert outperforms all the other approaches except for typesql , which obtains a performance drop of 1 . 3 % compared to our approach .	'Incorrect'

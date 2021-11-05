@@ -1,0 +1,3 @@
+< extra_id_0 > data - s and data - s are presented in table 4 .	'Hallucinated'
+our model outperforms all previous state - of - the - art models across all domains with the exception of ger .	'Incorrect'
+the results of our model outperform all previous state - of - the - art models in all domains with the exception of ger .	'N/A'

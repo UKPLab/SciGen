@@ -1,0 +1,5 @@
+see that for both bleu and rouge - l the differences between e2e and webnlg are relatively small .	'Incorrect'
+we hypothesize that this is due to the fact that e2e and webnlg use different encoders compared to webnlg .	'Hallucinated'
+however , the difference in bleu is smaller for e2e compared to webnlg .	'N/A'
+this is due to the fact that e2e and webnlg use different encoders compared to webnlg .	'Incorrect'
+in addition , the differences in rouge - l between e2e and webnlg are smaller for e2e than for webnlg .	'Incorrect'

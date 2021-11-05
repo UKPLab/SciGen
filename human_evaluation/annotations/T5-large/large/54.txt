@@ -1,0 +1,7 @@
+we can see that the most frequent pos tags are verbs , adjectives , and punctuation , while the least frequent pos tags are pos tags of nouns , adjectives , and prepositions .	'Extra'
+in general , the most frequent pos tags are verbs , adjectives , and punctuation in the chinesejapanese corpus .	'Extra'
+the least frequent pos tags are prepositions and adjectives , and	'N/A'
+the least frequent pos tags are pos tags of nouns , verbs , and adjectives . NON)	'N/A'
+the least frequent pos tags are prepositions , and	'N/A'
+the least frequent pos tags are prepositions .	'N/A'
+we can see that the most frequent pos tags are verbs , adjectives , and punctuation , followed by verbs and prepositions .	'Extra'

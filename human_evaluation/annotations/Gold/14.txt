@@ -1,0 +1,3 @@
+S-LSTM gives significantly better results compared with BiLSTM on the WSJ dataset
+S-LSTM also gives competitive accuracies as compared with existing methods in the literature.
+Stacking two layers of BiLSTMs leads to improved results compared to one-layer BiLSTM, but the accuracy does not further improve with three layers of stacked LSTMs.

@@ -1,0 +1,6 @@
+s5ss1sss0px4 results we first compare the performance of biobert and bert on the mednli datasets .	'Hallucinated'
+the results show that both models outperform the snli ( s ) and mnli ( m ) baselines in the cross - validation setting ,	'Incorrect'
+which confirms the effectiveness of the proposed approach .	'Hallucinated'
+further , we find that the extended versions of the mednli datasets perform better than the original datasets ,	'Incorrect'
+which shows the benefit of continuous learning of entailment and nli across multiple tasks .	'Hallucinated'
+in addition , we note that there is no significant difference between the models trained on the original and the extended datasets .	'Hallucinated'

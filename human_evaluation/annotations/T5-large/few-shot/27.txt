@@ -1,0 +1,5 @@
+< extra_id_0 > exact match results are shown in table 3 .	'Hallucinated'
+the improvement obtained by jointly training the two decoders is shown in table 3 .	'Hallucinated'
+the improvement obtained by jointly training the two decoders is shown in table 3 .	'N/A'
+the difference between f1 and exact match is relatively small compared to the improvement obtained by separately training the two decoders .	'Incorrect'
+the improvement obtained by jointly training the two decoders is mainly due to the fact that the predicted chunk sequence is closer to the ground - truth target syntax .	'Hallucinated'

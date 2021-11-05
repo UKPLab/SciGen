@@ -1,0 +1,4 @@
+The three decoding settings do not differ significantly in terms of the performance on selected downstream tasks, with RNN or CNN as the decoder.
+The performance of the predict-all words RNN decoder does not significantly differ from that of any one of the autoregressive RNN decoders
+The same situation can be also observed in CNN decoders. 
+In our proposed RNN-CNN model, we empirically show that the mean+max pooling provides stronger transferability than the max pooling alone does

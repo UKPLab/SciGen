@@ -1,0 +1,5 @@
+dm , pas , psd , eds and amr .	'Hallucinated'
+we achieve state - of - the - art performance on three of the four datasets in terms of f1 score	'Entailed'
+and a very competitive performance on the eds test set with a score of 76 . 3 ± 0 . 1 and 77 . 6 smatch f .	'Entailed'
+note that the performance of peng et al . on amr 2017 test set is lower than that of their basic model ,	'Incorrect'
+which we believe is due to the fact that the test set of amr 2015 and 2016 was not drawn from the same training set as that of the other two datasets .	'Hallucinated'

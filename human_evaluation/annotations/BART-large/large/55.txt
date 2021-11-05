@@ -1,0 +1,6 @@
+ablation studies .	'N/A'
+we perform ablation studies to study the effect of different components of our model .	'Entailed'
+we vary k , the number of mini - batches used for question synthesis in squad , and vary the answer type and how much of the paragraph we use to question synthesis .	'Hallucinated'
+the span f1 and em scores are measured on the test set of a bidaf model finetuned with a 2 - stage synnet .	'Hallucinated'
+we find that using an ner system or the human - annotated answers to generate questions is better than using the entire paragraph .	'Entailed'
+we also find that including the span of the first two sentences in the paragraph is the most effective way to generate question synthesis , while the third and fourth sentences provide the most significant boost .	'Extra'

@@ -1,0 +1,6 @@
+For de2en and es2en, uniform ensembling performs similarly to the oracles, and performs similarly to BI.
+We submitted three runs to the WMT19 biomedical task for each language pair: the best single all-biomed model, a uniform ensemble of models on two en-de and three es-en domains, and an ensemble with Bayesian Interpolation. 
+A uniform multi-domain ensemble performs well, giving 0.5-1.2 BLEU improvement on the test set over strong single models.
+We see small gains from using BI with ensembles on most validation sets, but only on en2es test. 
+We noted that, in general, we could predict BI (α = 0.5) performance by comparing the uniform ensemble with the oracle model performing best on each validation domain.
+For en2es, uniform ensembling underperforms the health and bio oracle models on their validation sets, and the uniform ensemble slightly underperforms BI on the test data.

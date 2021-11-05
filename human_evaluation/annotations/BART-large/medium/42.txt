@@ -1,0 +1,5 @@
+we define a wikifiable named entity as a website which has at least one associated wikipedia link .	'Extra'
+we define this as the percentage of entities in the entire website that are known to be associated with a wikipedia page .	'Extra'
+for example , for the illegal onion website , 32 . 5 % of its website ’ s users are also associated with wikipedia pages .	'Extra'
+for legal onion , we define this percentage to be 50 . 8 % .	'Extra'
+we observe a similar trend for the other website , with 38 . 6 % of all items in the legal onion domain being covered by wikifiable entities .	'Extra'

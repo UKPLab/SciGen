@@ -1,0 +1,6 @@
+< extra_id_0 > no - project thresholds .	'N/A'
+the number of neutral sentences and the average accuracies of the no - project baseline on non - neutral sentences is shown in table 3 .	'Hallucinated'
+the number of sentences which got marked as neutral and which got marked as flipped is shown in table 3 .	'Hallucinated'
+the fleiss ’ kappa and the average accuracies of the no - project baseline are shown in table 3 .	'Hallucinated'
+the number of sentences which got marked as neutral and which got marked as the opposite of their labels is shown in table 3 .	'Hallucinated'
+the average	'N/A'

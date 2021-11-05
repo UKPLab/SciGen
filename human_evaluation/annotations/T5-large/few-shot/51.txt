@@ -1,0 +1,1 @@
+< extra_id_0 > person who won award c > 271 c > 0 . 87 c > c > american actor c > 133 c > 0 . 86 c > c > won award c > 100 c > 0 . 87 c > c > american actor c > 100 c > 0 . 86 c > c > c > starred movie c > 100 c > 0 . 86 c >	'N/A'

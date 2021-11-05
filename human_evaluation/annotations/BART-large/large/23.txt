@@ -1,0 +1,2 @@
+our model ’ s oracle performance is competitive with the state - of - the - art supervised method cao et al .	'Incorrect'
+our model also outperforms the seq2seq baseline , demonstrating the effectiveness of our model on the gigaword dataset .	'Incorrect'

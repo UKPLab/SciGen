@@ -1,0 +1,3 @@
+increasing the number of layers in synst ’ s parse decoder significantly decreases the speedup while marginally affecting bleu .	'Entailed'
+we find that increasing the maximum chunk size from { 1 … 6 } to { 1 → 6 } results in a 3 . 1 × speedup and a 1 . 4 × bleus improvement , while having a negligible impact on speedup .	'Incorrect'
+increasing the size of the chunk size beyond 6 does not result in any significant gains in terms of speedup , and actually hampers the overall speedup ( theoretically , larger chunks allow for more capacity in the decoder to fit more sentences per second into the memory , thus potentially increasing the total number of parameters ) .	'Incorrect'

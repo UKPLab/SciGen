@@ -1,0 +1,3 @@
+< extra_id_0 > the fever dev set and on the < extra_id_1 > cases from the fever dev set and on the generated pairs for the symmetric test set in the setting of without ( base ) and with ( r . w ) re - weighting .	'Hallucinated'
+the results shown in table 3 show that all the classifiers perform similarly on the supports and refutes cases as well as on the generated pairs for the symmetric test set in the setting of without ( r . w ) re - weighting .	'Incorrect'
+the difference between the.	'N/A'

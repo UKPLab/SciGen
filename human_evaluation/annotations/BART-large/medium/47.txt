@@ -1,0 +1,5 @@
+comparing with existing approaches , we can see that there is a significant gap between the original seq2seq model and existing approaches .	'Extra'
+for example , compared with our proposed irnet , the exact matching accuracy drops from 53 . 2 % to 46 . 7 % and from 61 . 9 % to 54 . 7 % , respectively .	'Extra'
+this shows that the proposed framework is very effective in dealing with complex sql queries .	'Incorrect'
+we can also see that bert has a large impact on the performance as compared with the other two pre - trained language models .	'Entailed'
+this is because bert is trained on a large general language model like scibert , and the performance of this model on sql queries is directly related to the accuracy of the corresponding sql query .	'Extra'

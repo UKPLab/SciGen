@@ -1,0 +1,2 @@
+S-LSTM outperforms BiLSTM significantly, with a faster speed.
+S-LSTM also gives highly competitive results when compared with existing methods in the literature.

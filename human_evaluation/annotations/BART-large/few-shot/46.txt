@@ -1,0 +1,8 @@
+table 2 shows the performance of our model compared to previous state - of - the - art models on the swbd2 and cnn datasets .	'Hallucinated'
+our hn model outperforms all the previous models except doc2vec and bigram , which show significant performance drop when using tf - idf and logistic features .	'Extra'
+the hn - sa model shows a slight performance improvement over the plain bow model , but still performs substantially worse than other models .	'Extra'
+we conjecture that this is due to the lower performance on datasets with fewer training examples .	'Extra'
+moreover , all the models we consider have different feature sets that contribute differently to the model performance .	'Extra'
+the most interesting ones are the bag of means and logistic features , which significantly improve performance .	'Extra'
+however , the biggest performance gain is obtained by the svm feature , which bridges the gap between bow and bow with respect to semantic features .	'Extra'
+this corroborates our intuition that semantic features are important for boosting performance .	'Extra'

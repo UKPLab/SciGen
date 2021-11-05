@@ -1,0 +1,3 @@
+as shown in table 2 , the average percentage of wikifiable named entities in a website per domain , with standard error weighted by the number of domains , is 38 . 6 % ( https : / / www . uservoice . com / en - us / for example , ebay is 50 . 8 % ( wikifiable ) and legal onion is 32 . 5 % ( illegal onion ) .	'Incorrect'
+the presence of illegal and legal onions in the same domain is statistically significant ( p < 0 . 01 )	'Incorrect'
+which shows that the illegal ones are more likely to contain copyrighted material .	'Hallucinated'

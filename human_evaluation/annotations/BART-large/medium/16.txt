@@ -1,0 +1,4 @@
+the baseline is a logistic regression classifier with cross - entropy as described in the main paper on the e2e dataset .	'Extra'
+our own results correspond to the best single - model results of ten runs and single result of best single model on the development set .	'Extra'
+both character and word embeddings outperform the baseline by a large margin ,	'Incorrect'
+and the char . elder embedding achieves the best result on the challenge dataset , and outperforms the baseline in terms of bleu and rouge - l .	'Incorrect'

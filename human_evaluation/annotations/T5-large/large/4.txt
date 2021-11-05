@@ -1,0 +1,4 @@
+also shows the results of a crowdsourced study using the same thresholds as in the original sst2 dataset .	'Hallucinated'
+the no - distill , no - project baseline , with a threshold of 0 . 5 , got the opposite label of 234 out of the 447 sentences labeled as neutral .	'Incorrect'
+the no - project elmo , with a threshold of 0 got the opposite label of 234 out of the 447 sentences labeled as neutral .	'Incorrect'
+the performance of the elmo models on non - neutral sentences is very similar to the performance of the baseline model , with accuracy ranging from 91 . 31 % to 93 . 14 % .	'Incorrect'

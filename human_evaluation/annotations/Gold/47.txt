@@ -1,0 +1,2 @@
+IRNet significantly outperforms SyntaxSQLNet in all four hardness levels with or without BERT
+Compared with SyntaxSQLNet, IRNet obtains 23.3% absolute improvement in Hard level

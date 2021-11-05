@@ -1,0 +1,2 @@
+we can see that the esim and transformer with the oracle argument outperform the baseline in terms of both the support accuracy and the claim kappa .	'Incorrect'
+we can also see that there is no significant difference in the claim accuracy when we concatenate the evidence from the two arguments .	'Hallucinated'

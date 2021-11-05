@@ -1,0 +1,6 @@
+e2e and webnlg have similar average bleu and rouge scores , while the human scores are lower than the other two .	'Incorrect'
+the human scores are averaged over using each reference as prediction once .	'Incorrect'
+the results are averaged over using each human reference as prediction once .	'Incorrect'
+the average bleu and rouge scores for e2e are higher than for webnlg .	'Incorrect'
+the difference between e2e and webnlg is smaller than for webnlg .	'Incorrect'
+the difference between webnlg and e2e is smaller than for webnlg .	'N/A'
