@@ -11,7 +11,7 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
     file = args.file
-    out = args.out
+    out = args.split
 
     row_seperator = '<R>'
     cell_separator = '<C>'
